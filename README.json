@@ -19,7 +19,7 @@
             "last_commit": "2026-08-07T12:36:37Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14714
+            "stars": 14713
           }
         },
         {
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T18:19:31Z",
+            "last_commit": "2026-08-13T08:16:37Z",
             "owner": "software-mansion",
             "repo": "react-native-audio-api",
             "stars": 824
@@ -95,7 +95,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25332
+            "stars": 25331
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-10T05:53:53Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10370
+            "stars": 10371
           }
         },
         {
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:39:04.469Z",
+    "last_updated": "2026-08-13T08:39:09.263Z",
     "original_repository": "notthetup/awesome-webaudio",
     "original_repository_sha": "5ba94a8033c803be974a4a8d6a0874afad413c8f",
     "enhanced_repository": "enhansome/enhansome-webaudio",

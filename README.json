@@ -19,7 +19,7 @@
             "last_commit": "2026-08-07T12:36:37Z",
             "owner": "Tonejs",
             "repo": "Tone.js",
-            "stars": 14713
+            "stars": 14715
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25333
+            "stars": 25334
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-06-22T20:40:59Z",
             "owner": "magenta",
             "repo": "magenta-js",
-            "stars": 2126
+            "stars": 2125
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2024-07-15T23:28:43Z",
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1657
+            "stars": 1659
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2025-07-06T11:09:19Z",
             "owner": "cifkao",
             "repo": "html-midi-player",
-            "stars": 898
+            "stars": 899
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2026-07-11T14:46:18Z",
             "owner": "audiojs",
             "repo": "audio",
-            "stars": 305
+            "stars": 306
           }
         },
         {
@@ -586,7 +586,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T17:43:50Z",
+            "last_commit": "2026-08-15T08:30:25Z",
             "owner": "k1ln",
             "repo": "synflow",
             "stars": 10
@@ -1081,7 +1081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:37:07.418Z",
+    "last_updated": "2026-08-16T07:38:48.896Z",
     "original_repository": "notthetup/awesome-webaudio",
     "original_repository_sha": "5ba94a8033c803be974a4a8d6a0874afad413c8f",
     "enhanced_repository": "enhansome/enhansome-webaudio",

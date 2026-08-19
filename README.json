@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 823563404,
                 "language": "C++",
-                "last_commit": "2026-08-18T16:35:46Z",
+                "last_commit": "2026-08-19T12:10:27Z",
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 826
@@ -1157,8 +1157,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:47:58.675Z",
+    "last_updated": "2026-08-19T12:59:36.775Z",
     "original_repository": "notthetup/awesome-webaudio",
+    "original_repository_id": 43116480,
     "original_repository_sha": "5ba94a8033c803be974a4a8d6a0874afad413c8f",
     "enhanced_repository": "enhansome/enhansome-webaudio",
     "enhanced_repository_description": null,

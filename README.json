@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-07T12:36:37Z",
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14700
+                "stars": 14702
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 823563404,
                 "language": "C++",
-                "last_commit": "2026-08-19T12:10:27Z",
+                "last_commit": "2026-08-19T19:38:46Z",
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 826
+                "stars": 827
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-17T17:34:03Z",
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10376
+                "stars": 10380
               }
             },
             {
@@ -234,7 +234,7 @@
                 "last_commit": "2026-07-11T14:46:18Z",
                 "owner": "audiojs",
                 "repo": "audio",
-                "stars": 306
+                "stars": 307
               }
             },
             {
@@ -276,7 +276,7 @@
                 "archived": false,
                 "id": 571407257,
                 "language": "TypeScript",
-                "last_commit": "2026-07-10T17:16:21Z",
+                "last_commit": "2026-08-19T17:42:00Z",
                 "owner": "infojunkie",
                 "repo": "musicxml-player",
                 "stars": 86
@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-12T22:46:18Z",
                 "owner": "NumberOneBot",
                 "repo": "dsssp",
-                "stars": 72
+                "stars": 73
               }
             },
             {
@@ -480,7 +480,7 @@
                 "last_commit": "2022-12-07T18:48:50Z",
                 "owner": "mmckegg",
                 "repo": "loop-drop-app",
-                "stars": 835
+                "stars": 836
               }
             },
             {
@@ -1157,7 +1157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:59:36.775Z",
+    "last_updated": "2026-08-20T07:50:06.580Z",
     "original_repository": "notthetup/awesome-webaudio",
     "original_repository_id": 43116480,
     "original_repository_sha": "5ba94a8033c803be974a4a8d6a0874afad413c8f",

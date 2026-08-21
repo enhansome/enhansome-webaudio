@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-07T12:36:37Z",
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14702
+                "stars": 14704
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-08T07:45:06Z",
                 "owner": "GoogleChrome",
                 "repo": "omnitone",
-                "stars": 911
+                "stars": 910
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 823563404,
                 "language": "C++",
-                "last_commit": "2026-08-19T19:38:46Z",
+                "last_commit": "2026-08-20T18:20:17Z",
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 827
+                "stars": 828
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2025-11-23T23:49:01Z",
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25332
+                "stars": 25333
               }
             },
             {
@@ -111,10 +111,10 @@
                 "archived": false,
                 "id": 3618686,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T17:34:03Z",
+                "last_commit": "2026-08-20T09:08:35Z",
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10380
+                "stars": 10379
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-06-22T20:40:59Z",
                 "owner": "magenta",
                 "repo": "magenta-js",
-                "stars": 2125
+                "stars": 2124
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-04-06T21:23:08Z",
                 "owner": "Theodeus",
                 "repo": "tuna",
-                "stars": 1828
+                "stars": 1827
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2024-07-15T23:28:43Z",
                 "owner": "meyda",
                 "repo": "meyda",
-                "stars": 1660
+                "stars": 1661
               }
             },
             {
@@ -234,7 +234,7 @@
                 "last_commit": "2026-07-11T14:46:18Z",
                 "owner": "audiojs",
                 "repo": "audio",
-                "stars": 307
+                "stars": 308
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2024-05-18T11:34:02Z",
                 "owner": "kelvinau",
                 "repo": "circular-audio-wave",
-                "stars": 280
+                "stars": 281
               }
             },
             {
@@ -398,7 +398,7 @@
                 "last_commit": "2026-02-01T00:51:16Z",
                 "owner": "jazz-soft",
                 "repo": "JZZ",
-                "stars": 592
+                "stars": 593
               }
             },
             {
@@ -1157,7 +1157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:50:06.580Z",
+    "last_updated": "2026-08-21T07:51:25.099Z",
     "original_repository": "notthetup/awesome-webaudio",
     "original_repository_id": 43116480,
     "original_repository_sha": "5ba94a8033c803be974a4a8d6a0874afad413c8f",

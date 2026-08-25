@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T18:39:13Z",
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14707
+                "stars": 14708
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 823563404,
                 "language": "C++",
-                "last_commit": "2026-08-24T12:32:42Z",
+                "last_commit": "2026-08-24T14:12:19Z",
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 830
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-21T11:58:21Z",
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10382
+                "stars": 10383
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2025-07-06T11:09:19Z",
                 "owner": "cifkao",
                 "repo": "html-midi-player",
-                "stars": 900
+                "stars": 901
               }
             },
             {
@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-12T22:46:18Z",
                 "owner": "NumberOneBot",
                 "repo": "dsssp",
-                "stars": 74
+                "stars": 73
               }
             },
             {
@@ -864,7 +864,7 @@
             "last_commit": "2025-11-04T00:37:13Z",
             "owner": "gibber-cc",
             "repo": "gibberish",
-            "stars": 399
+            "stars": 400
           }
         },
         {
@@ -1157,7 +1157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:11:18.890Z",
+    "last_updated": "2026-08-25T06:05:54.373Z",
     "original_repository": "notthetup/awesome-webaudio",
     "original_repository_id": 43116480,
     "original_repository_sha": "5ba94a8033c803be974a4a8d6a0874afad413c8f",

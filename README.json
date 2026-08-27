@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 823563404,
                 "language": "C++",
-                "last_commit": "2026-08-27T10:37:28Z",
+                "last_commit": "2026-08-27T13:37:25Z",
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 831
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-21T11:58:21Z",
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10384
+                "stars": 10385
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2025-07-06T11:09:19Z",
                 "owner": "cifkao",
                 "repo": "html-midi-player",
-                "stars": 901
+                "stars": 902
               }
             },
             {
@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-12T22:46:18Z",
                 "owner": "NumberOneBot",
                 "repo": "dsssp",
-                "stars": 73
+                "stars": 74
               }
             },
             {
@@ -1157,7 +1157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:38.414Z",
+    "last_updated": "2026-08-27T18:13:53.166Z",
     "original_repository_info": {
       "archived": false,
       "id": 43116480,

@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T18:39:13Z",
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14709
+                "stars": 14712
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 823563404,
                 "language": "C++",
-                "last_commit": "2026-08-25T17:42:14Z",
+                "last_commit": "2026-08-27T10:37:28Z",
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 830
+                "stars": 831
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2025-11-23T23:49:01Z",
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25336
+                "stars": 25338
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-04-06T21:23:08Z",
                 "owner": "Theodeus",
                 "repo": "tuna",
-                "stars": 1827
+                "stars": 1830
               }
             },
             {
@@ -398,7 +398,7 @@
                 "last_commit": "2026-02-01T00:51:16Z",
                 "owner": "jazz-soft",
                 "repo": "JZZ",
-                "stars": 593
+                "stars": 594
               }
             },
             {
@@ -1157,9 +1157,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:53:26.560Z",
-    "original_repository": "notthetup/awesome-webaudio",
-    "original_repository_id": 43116480,
+    "last_updated": "2026-08-27T12:12:38.414Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 43116480,
+      "language": null,
+      "last_commit": "2026-06-05T01:54:36Z",
+      "owner": "notthetup",
+      "repo": "awesome-webaudio",
+      "stars": 1396
+    },
     "original_repository_sha": "5ba94a8033c803be974a4a8d6a0874afad413c8f",
     "enhanced_repository": "enhansome/enhansome-webaudio",
     "enhanced_repository_description": null,

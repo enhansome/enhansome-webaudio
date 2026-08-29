@@ -1,14 +1,14 @@
 # Awesome WebAudio with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 500,811 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21
 
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/webaudio/webaudio-js.png" width="200px" alt="WebAudio">
 
 > A curated list of awesome [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [packages](#packages) and [demos](#demos).
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,811 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 list thing.
 
-Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) ⭐ 1,395 | 🐛 11 | 📅 2026-06-05 to add an awesome WebAudio thing to this list.
+Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) ⭐ 1,396 | 🐛 11 | 📅 2026-06-05 to add an awesome WebAudio thing to this list.
 
 ## Contents
 
@@ -39,15 +39,15 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ### Libraries
 
 * [Howler.js](https://github.com/goldfire/howler.js) ⭐ 25,338 | 🐛 417 | 🌐 JavaScript | 📅 2025-11-23 - A comprehensive library with a fallback to HTML5 Audio.
-* [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,389 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-21 - Interactive navigable audio visualization using Web Audio and Canvas.
+* [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,390 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-21 - Interactive navigable audio visualization using Web Audio and Canvas.
 * [@magenta/music](https://github.com/magenta/magenta-js/tree/master/music) ⭐ 2,125 | 🐛 136 | 🌐 TypeScript | 📅 2026-06-22 - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
 * [Wad](https://github.com/rserota/wad) ⭐ 1,981 | 🐛 3 | 🌐 JavaScript | 📅 2025-11-06 - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 * [Tuna](https://github.com/Theodeus/tuna) ⭐ 1,830 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-06 - An audio effects library.
-* [Meyda](https://github.com/meyda/meyda) ⭐ 1,662 | 🐛 70 | 🌐 TypeScript | 📅 2024-07-15 - Audio feature extraction library including a variety of widely used audio features.
+* [Meyda](https://github.com/meyda/meyda) ⭐ 1,663 | 🐛 70 | 🌐 TypeScript | 📅 2024-07-15 - Audio feature extraction library including a variety of widely used audio features.
 * [html-midi-player](https://github.com/cifkao/html-midi-player) ⭐ 902 | 🐛 21 | 🌐 TypeScript | 📅 2025-07-06 - HTML elements for easy MIDI playback and visualization, without the need to write any custom JS code, but scriptable and stylable as needed.
 * [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) ⭐ 368 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-25 - Library for declaratively manipulating the Web Audio API.
 * [Sound.js](https://github.com/kittykatattack/sound.js) ⭐ 318 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 - A micro-library to load, play and generate sound effects and music for games and interactive applications.
-* [Audiojs](https://github.com/audiojs/audio) ⭐ 308 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-11 - An object that enables you to store, read, and write PCM audio data more easily.
+* [Audiojs](https://github.com/audiojs/audio) ⭐ 308 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-28 - An object that enables you to store, read, and write PCM audio data more easily.
 * [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) ⭐ 281 | 🐛 14 | 🌐 JavaScript | 📅 2024-05-18 - A JS library for audio visualization in circular wave using Web Audio API and ECharts.
 * [waveform-path](https://github.com/jerosoler/waveform-path) ⭐ 133 | 🐛 5 | 🌐 JavaScript | 📅 2024-10-18 - Library to generate waveforms paths in svg.
 * [MusicXML Player](https://github.com/infojunkie/musicxml-player) ⭐ 86 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-19 - A TypeScript component that loads and plays MusicXML files in the browser using Web Audio and Web MIDI.
@@ -175,4 +175,4 @@ To the extent possible under law, [Chinmay Pendharkar](https://chinmay.audio/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

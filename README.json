@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Web Audio framework for making interactive music in the browser.",
+                "homepage": "https://tonejs.github.io",
                 "id": 17618901,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-21T18:39:13Z",
+                "open_issues": 59,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14714
+                "stars": 14714,
+                "topics": [
+                  "javascript",
+                  "music",
+                  "samples",
+                  "scheduling",
+                  "synthesis",
+                  "tone",
+                  "web-audio"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -28,12 +41,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spatial Audio Rendering on the web.",
+                "homepage": "https://googlechrome.github.io/omnitone",
                 "id": 60283346,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T07:45:06Z",
+                "open_issues": 31,
                 "owner": "GoogleChrome",
                 "repo": "omnitone",
-                "stars": 910
+                "stars": 910,
+                "topics": [
+                  "ambisonics",
+                  "hrtf",
+                  "spatial-audio",
+                  "webaudio"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -44,12 +67,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance audio engine for react-native",
+                "homepage": "https://docs.swmansion.com/react-native-audio-api/",
                 "id": 823563404,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:08:20Z",
+                "open_issues": 31,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 831
+                "stars": 831,
+                "topics": [
+                  "android",
+                  "api",
+                  "audio",
+                  "audio-processing",
+                  "ios",
+                  "javascript",
+                  "music",
+                  "react-native",
+                  "sound",
+                  "sound-processing",
+                  "web",
+                  "webaudio",
+                  "webaudio-api",
+                  "webaudioapi"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -60,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for making beats and composing sequences with Javascript and Web Audio",
+                "homepage": null,
                 "id": 33197459,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-23T21:45:12Z",
+                "open_issues": 15,
                 "owner": "adamrenklint",
                 "repo": "bap",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -76,12 +124,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simplified cross platform spatial audio framework",
+                "homepage": "https://www.mach1.tech",
                 "id": 160861940,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-16T13:09:59Z",
+                "open_issues": 1,
                 "owner": "Mach1Studios",
                 "repo": "m1-sdk",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "audio",
+                  "cross-platform",
+                  "framework",
+                  "spatial",
+                  "spatial-audio",
+                  "webaudio"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             }
@@ -99,12 +159,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript audio library for the modern web.",
+                "homepage": "https://howlerjs.com",
                 "id": 7874074,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-23T23:49:01Z",
+                "open_issues": 417,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25338
+                "stars": 25338,
+                "topics": [
+                  "audio",
+                  "audio-library",
+                  "howler",
+                  "html5-audio",
+                  "javascript",
+                  "playback",
+                  "volume",
+                  "web-audio"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -115,12 +189,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Audio waveform player",
+                "homepage": "https://wavesurfer.xyz",
                 "id": 3618686,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-21T11:58:21Z",
+                "open_issues": 36,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10389
+                "stars": 10390,
+                "topics": [
+                  "audio",
+                  "javascript",
+                  "music",
+                  "typescript",
+                  "waveform",
+                  "web-audio"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -131,12 +217,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magenta.js: Music and Art Generation with Machine Learning in the browser",
+                "homepage": "https://magenta.tensorflow.org",
                 "id": 126883328,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-22T20:40:59Z",
+                "open_issues": 136,
                 "owner": "magenta",
                 "repo": "magenta-js",
-                "stars": 2125
+                "stars": 2125,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -147,12 +238,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Audio DAW.  Use the Web Audio API for dynamic sound synthesis.  It's like jQuery for your ears. ",
+                "homepage": null,
                 "id": 15011587,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-06T22:42:39Z",
+                "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1981
+                "stars": 1981,
+                "topics": [
+                  "audio",
+                  "daw",
+                  "javascript",
+                  "microphone",
+                  "midi",
+                  "midi-device",
+                  "panning",
+                  "sound"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -163,12 +268,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An audio effects library for the Web Audio API.",
+                "homepage": null,
                 "id": 6578048,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-04-06T21:23:08Z",
+                "open_issues": 4,
                 "owner": "Theodeus",
                 "repo": "tuna",
-                "stars": 1830
+                "stars": 1830,
+                "topics": [
+                  "audio",
+                  "audio-effect",
+                  "javascript",
+                  "music",
+                  "web-audio"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -179,12 +295,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Audio feature extraction for JavaScript.",
+                "homepage": "https://meyda.js.org/",
                 "id": 22857662,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-15T23:28:43Z",
+                "open_issues": 70,
                 "owner": "meyda",
                 "repo": "meyda",
-                "stars": 1662
+                "stars": 1663,
+                "topics": [
+                  "audio-features",
+                  "feature-extraction",
+                  "hacktoberfest",
+                  "javascript",
+                  "mir",
+                  "music-information-retrieval",
+                  "spectral-centroid",
+                  "zero-cross"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -195,12 +325,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎹 Play and display MIDI files on the web",
+                "homepage": "https://cifkao.github.io/html-midi-player/",
                 "id": 288016885,
                 "language": "TypeScript",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-07-06T11:09:19Z",
+                "open_issues": 21,
                 "owner": "cifkao",
                 "repo": "html-midi-player",
-                "stars": 902
+                "stars": 902,
+                "topics": [
+                  "audio-player",
+                  "html",
+                  "javascript",
+                  "magenta-js",
+                  "midi",
+                  "midi-file",
+                  "midi-player",
+                  "music",
+                  "music-player",
+                  "player",
+                  "typescript",
+                  "web-component",
+                  "web-components"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -211,12 +360,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":notes: Library for declaratively manipulating the Web Audio API",
+                "homepage": "https://virtual-audio-graph.netlify.app",
                 "id": 37471875,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-25T20:53:26Z",
+                "open_issues": 9,
                 "owner": "benji6",
                 "repo": "virtual-audio-graph",
-                "stars": 368
+                "stars": 368,
+                "topics": [
+                  "audio",
+                  "audio-worklet",
+                  "audiocontext",
+                  "audiograph",
+                  "audionode",
+                  "audioparam",
+                  "audioworklet",
+                  "declarative",
+                  "functional-programming",
+                  "react",
+                  "webaudio",
+                  "webaudio-api",
+                  "webaudioapi"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -227,12 +395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A micro-library to load, play and generate sound effects and music for games and interactive applications",
+                "homepage": null,
                 "id": 26765973,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-04-25T20:23:17Z",
+                "open_issues": 17,
                 "owner": "kittykatattack",
                 "repo": "sound.js",
-                "stars": 318
+                "stars": 318,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -243,12 +416,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-level audio manipulations",
+                "homepage": null,
                 "id": 59882536,
                 "language": "JavaScript",
-                "last_commit": "2026-07-11T14:46:18Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:32:11Z",
+                "open_issues": 6,
                 "owner": "audiojs",
                 "repo": "audio",
-                "stars": 308
+                "stars": 308,
+                "topics": [
+                  "audio",
+                  "audiojs",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -259,12 +441,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JS library for audio visualization in circular wave using Web Audio API and ECharts",
+                "homepage": null,
                 "id": 116280502,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-05-18T11:34:02Z",
+                "open_issues": 14,
                 "owner": "kelvinau",
                 "repo": "circular-audio-wave",
-                "stars": 281
+                "stars": 281,
+                "topics": [
+                  "audio-reactive",
+                  "canvas",
+                  "circular",
+                  "javascript",
+                  "music",
+                  "music-visualisation",
+                  "waveform"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -275,12 +470,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎙 Generator waveform paths for SVG 🎶",
+                "homepage": "https://jerosoler.github.io/waveform-path/",
                 "id": 452334735,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-18T15:44:18Z",
+                "open_issues": 5,
                 "owner": "jerosoler",
                 "repo": "waveform-path",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "audio",
+                  "audio-player",
+                  "audio-visual",
+                  "audio-visualizer",
+                  "music",
+                  "path",
+                  "svg",
+                  "waveform",
+                  "webaudio"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -291,12 +501,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play MusicXML scores in the browser using Web Audio and Web MIDI.",
+                "homepage": "https://blog.karimratib.me/demos/musicxml/",
                 "id": 571407257,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-19T17:42:00Z",
+                "open_issues": 14,
                 "owner": "infojunkie",
                 "repo": "musicxml-player",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "midi",
+                  "music-i18n",
+                  "music-notation",
+                  "musicxml",
+                  "web-audio"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -307,12 +528,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Library for Audio Equalizers & Filter Visualization",
+                "homepage": "https://dsssp.io",
                 "id": 900114375,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-12T22:46:18Z",
+                "open_issues": 0,
                 "owner": "NumberOneBot",
                 "repo": "dsssp",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "audio-effects",
+                  "audio-engineering",
+                  "audio-filters",
+                  "audio-processing",
+                  "audio-spectrum",
+                  "chart",
+                  "digital-signal-processing",
+                  "dsp",
+                  "graph",
+                  "javascript",
+                  "music-technology",
+                  "react",
+                  "react-components",
+                  "signal-processing",
+                  "sound",
+                  "svg",
+                  "typescript",
+                  "ui-library",
+                  "visualization",
+                  "waveform"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -323,12 +570,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌊 Simple audio player webcomponent customizable with waveform",
+                "homepage": "https://jerosoler.github.io/wave-audio-path-player/",
                 "id": 465364213,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-03-02T16:08:48Z",
+                "open_issues": 0,
                 "owner": "jerosoler",
                 "repo": "wave-audio-path-player",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "audio-player",
+                  "audio-visualizer",
+                  "music",
+                  "path",
+                  "svg",
+                  "waveform",
+                  "webaudio",
+                  "webcomponent"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -339,12 +600,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "smooth fading in webaudio",
+                "homepage": null,
                 "id": 39323390,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-09T02:54:24Z",
+                "open_issues": 0,
                 "owner": "notthetup",
                 "repo": "smoothfade",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "fade",
+                  "gain",
+                  "gainnode",
+                  "web-audio-api",
+                  "webaudio",
+                  "webaudio-api"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -355,12 +628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1136287896,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-20T16:13:09Z",
+                "open_issues": 0,
                 "owner": "v-rusu",
                 "repo": "tuning-fork",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             }
@@ -378,12 +656,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Audion is a Chrome extension that adds a Web Audio panel to Developer Tools. This panel visualizes the web audio graph in real-time.",
+                "homepage": "https://chrome.google.com/webstore/detail/web-audio-inspector/cmhomipkklckpomafalojobppmmidlgl",
                 "id": 61396247,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-24T05:43:17Z",
+                "open_issues": 25,
                 "owner": "GoogleChrome",
                 "repo": "audion",
-                "stars": 393
+                "stars": 393,
+                "topics": [
+                  "chrome-extension",
+                  "developer-tools",
+                  "web-audio"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -394,12 +681,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A UI for generating WebAudio code",
+                "homepage": "https://webaudio.simmsreeve.com/",
                 "id": 145308537,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-12-08T10:37:23Z",
+                "open_issues": 8,
                 "owner": "ISNIT0",
                 "repo": "webaudio-generator",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             }
@@ -417,12 +709,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " MIDI library for Node.js and web-browsers",
+                "homepage": "http://jazz-soft.net/doc/JZZ/",
                 "id": 38982462,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-01T00:51:16Z",
+                "open_issues": 19,
                 "owner": "jazz-soft",
                 "repo": "JZZ",
-                "stars": 594
+                "stars": 594,
+                "topics": [
+                  "audio",
+                  "javascript",
+                  "midi",
+                  "midi-file",
+                  "midi-files",
+                  "midi2",
+                  "ump",
+                  "web-audio",
+                  "web-audio-api",
+                  "web-midi",
+                  "web-midi-api",
+                  "webaudio",
+                  "webaudioapi",
+                  "webmidi",
+                  "webmidiapi"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -433,12 +746,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Web-MIDI Message Parser",
+                "homepage": "http://notthetup.github.io/midimessage",
                 "id": 40960409,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-03-05T08:11:48Z",
+                "open_issues": 3,
                 "owner": "notthetup",
                 "repo": "midimessage",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -449,12 +767,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Retrieve your MIDI device model and manufacturer",
+                "homepage": null,
                 "id": 58090813,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-23T01:48:39Z",
+                "open_issues": 0,
                 "owner": "jazz-soft",
                 "repo": "JZZ-midi-Gear",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "midi",
+                  "web-midi",
+                  "web-midi-api",
+                  "webmidi",
+                  "webmidiapi"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             }
@@ -472,12 +801,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Add effects from Tone.js. Project inspired by Audacity.",
+                "homepage": "https://naomiaro.github.io/waveform-playlist/",
                 "id": 8150190,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-17T19:34:35Z",
+                "open_issues": 58,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1672
+                "stars": 1672,
+                "topics": [
+                  "annotations",
+                  "audio",
+                  "audio-player",
+                  "audio-visualizer",
+                  "audiorecorder",
+                  "audioworklet",
+                  "daw",
+                  "hacktoberfest",
+                  "harmony",
+                  "music",
+                  "playback",
+                  "playlist",
+                  "tonejs",
+                  "waveform",
+                  "webaudio"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -488,12 +838,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Webbased old-school Amiga music tracker in plain old javascript - Plays and edits Amiga Mod files and FastTracker XM files",
+                "homepage": "http://www.stef.be/bassoontracker/",
                 "id": 78756952,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-05T06:53:08Z",
+                "open_issues": 31,
                 "owner": "steffest",
                 "repo": "BassoonTracker",
-                "stars": 1168
+                "stars": 1168,
+                "topics": [
+                  "amiga",
+                  "fasttracker",
+                  "music-creation",
+                  "protracker",
+                  "retro",
+                  "tracker",
+                  "webaudio"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -504,12 +867,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[unmaintained] MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs",
+                "homepage": null,
                 "id": 12895517,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-07T18:48:50Z",
+                "open_issues": 69,
                 "owner": "mmckegg",
                 "repo": "loop-drop-app",
-                "stars": 836
+                "stars": 836,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -520,12 +888,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Audio metronome example to show scheduling.",
+                "homepage": "https://cwilso.github.io/metronome/",
                 "id": 7334077,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-10-07T16:56:40Z",
+                "open_issues": 7,
                 "owner": "cwilso",
                 "repo": "metronome",
-                "stars": 615
+                "stars": 615,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -536,12 +909,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Light-weight GM mapped WebAudio-JavaScript Synthesizer Engine / MIDI Player",
+                "homepage": null,
                 "id": 82438302,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-20T04:31:49Z",
+                "open_issues": 5,
                 "owner": "g200kg",
                 "repo": "webaudio-tinysynth",
-                "stars": 272
+                "stars": 272,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -552,12 +930,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Audio synthesis from binary code of any file",
+                "homepage": "https://bs.stranno.su",
                 "id": 680772762,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2026-01-20T13:10:16Z",
+                "open_issues": 0,
                 "owner": "MaxAlyokhin",
                 "repo": "binary-synth",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "art",
+                  "audio",
+                  "databending",
+                  "experimental",
+                  "music",
+                  "sonification",
+                  "synthesizer",
+                  "webaudio",
+                  "webmidi"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -568,12 +961,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An audio mixer built using Web Audio API",
+                "homepage": "https://jamesfiltness.github.io/web-audio-mixer/",
                 "id": 105367231,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-09T07:36:26Z",
+                "open_issues": 2,
                 "owner": "jamesfiltness",
                 "repo": "web-audio-mixer",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "audio-applications",
+                  "javascript",
+                  "music",
+                  "web-audio",
+                  "web-audio-api"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -584,12 +988,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MOD is a new Chrome Experiment where you can create your own modular synthesizer, or emulate different synths by simply drag and drop components.",
+                "homepage": "http://mod-synth.io",
                 "id": 56593685,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2022-09-15T14:08:38Z",
+                "open_issues": 2,
                 "owner": "andrevenancio",
                 "repo": "mod-synth.io",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -600,12 +1009,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web synthesizer with smartphone sensors",
+                "homepage": "https://ami.stranno.su",
                 "id": 477475334,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-04T20:44:08Z",
+                "open_issues": 0,
                 "owner": "MaxAlyokhin",
                 "repo": "audio-motion-interface",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "art",
+                  "midi",
+                  "music",
+                  "sonification",
+                  "synthesizer",
+                  "web",
+                  "webaudio",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -616,12 +1039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source 3D synthesizer for the Web.",
+                "homepage": "https://oscillator.js.org",
                 "id": 102490753,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-09T11:51:43Z",
+                "open_issues": 18,
                 "owner": "lukehorvat",
                 "repo": "super-oscillator",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -632,12 +1060,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A loopstation for musicians. Completely online.",
+                "homepage": null,
                 "id": 109420304,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-03-06T12:48:37Z",
+                "open_issues": 0,
                 "owner": "scriptify",
                 "repo": "soundcycle",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -648,12 +1081,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "low-latency jamming space for musicians",
+                "homepage": "https://jamhub.io",
                 "id": 262159749,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-06T05:16:32Z",
+                "open_issues": 19,
                 "owner": "fletcherist",
                 "repo": "jamhub",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "collaborative",
+                  "jam",
+                  "midi",
+                  "musicians",
+                  "webaudio"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -664,12 +1108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://synflow.org",
                 "id": 1127876110,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:33:00Z",
+                "open_issues": 7,
                 "owner": "k1ln",
                 "repo": "synflow",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -680,12 +1129,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo Project of the DSSSP: React Library for Audio Equalizers & Filter Visualization",
+                "homepage": "https://dsssp.io/demo",
                 "id": 912419318,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-12T22:46:55Z",
+                "open_issues": 0,
                 "owner": "NumberOneBot",
                 "repo": "dsssp-demo",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "audio",
+                  "audio-effects",
+                  "audio-engineering",
+                  "audio-filters",
+                  "audio-processing",
+                  "chart",
+                  "dsp",
+                  "graph",
+                  "music",
+                  "react",
+                  "react-components",
+                  "signal-processing",
+                  "sound",
+                  "spectrum",
+                  "svg",
+                  "ui-library",
+                  "visualization",
+                  "waveform"
+                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -696,12 +1169,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Audio Musical Step Sequencer for music exchange",
+                "homepage": null,
                 "id": 49975350,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-01-19T19:12:04Z",
+                "open_issues": 0,
                 "owner": "surikov",
                 "repo": "molgav",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -712,12 +1190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample Golang app to demonstrace OpenTelemetry instrumentation",
+                "homepage": null,
                 "id": 445496678,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-01-06T12:07:05Z",
+                "open_issues": 0,
                 "owner": "meerasndr",
                 "repo": "sample-golang-app",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             }
@@ -741,12 +1224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An intro to the Web Audio API by a series of self-guided workshops.",
+                "homepage": null,
                 "id": 33714673,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-12-11T09:04:34Z",
+                "open_issues": 8,
                 "owner": "mmckegg",
                 "repo": "web-audio-school",
-                "stars": 416
+                "stars": 416,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -757,12 +1245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":speaker: Simple examples to demonstrate various aspects of the Web Audio API.",
+                "homepage": "http://kylestetz.github.io/Web-Audio-Basics/",
                 "id": 39339090,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2015-08-02T12:04:19Z",
+                "open_issues": 0,
                 "owner": "kylestetz",
                 "repo": "Web-Audio-Basics",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -773,12 +1266,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Audio katas",
+                "homepage": null,
                 "id": 647604965,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-09-02T06:58:54Z",
+                "open_issues": 0,
                 "owner": "survivejs",
                 "repo": "audio-katas",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -789,12 +1287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Introduction to Percussion Synthesis Using Web Audio tutorial from Web Audio Conference 2016 in Atlanta.",
+                "homepage": null,
                 "id": 55414421,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2016-09-25T13:15:27Z",
+                "open_issues": 0,
                 "owner": "irritant",
                 "repo": "WAC-2016-Tutorial",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             }
@@ -816,12 +1319,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for recording/exporting the output of Web Audio API nodes",
+            "homepage": null,
             "id": 5787154,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-09-13T07:33:38Z",
+            "open_issues": 154,
             "owner": "mattdiamond",
             "repo": "Recorderjs",
-            "stars": 4241
+            "stars": 4241,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -832,12 +1340,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library to simplify the way you create and manipulate sounds with the Web Audio API.",
+            "homepage": "https://alemangui.github.io/pizzicato/",
             "id": 30887530,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-09T10:54:49Z",
+            "open_issues": 78,
             "owner": "alemangui",
             "repo": "pizzicato",
-            "stars": 1712
+            "stars": 1712,
+            "topics": [
+              "audio",
+              "effects",
+              "javascript",
+              "sound"
+            ]
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -848,12 +1366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Band.js - Music composer interface for the Web Audio API.",
+            "homepage": null,
             "id": 12427061,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-23T06:54:47Z",
+            "open_issues": 12,
             "owner": "meenie",
             "repo": "band.js",
-            "stars": 1191
+            "stars": 1191,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -864,12 +1387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript library for real-time audio synthesis and composition from within the browser",
+            "homepage": "http://oampo.github.com/Audiolet/",
             "id": 1381807,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2016-06-10T06:07:51Z",
+            "open_issues": 25,
             "owner": "oampo",
             "repo": "Audiolet",
-            "stars": 893
+            "stars": 893,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -880,12 +1408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".wav/.ogg/.mp3 recorder with Web Audio API",
+            "homepage": null,
             "id": 39755265,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-08T05:48:08Z",
+            "open_issues": 42,
             "owner": "higuma",
             "repo": "web-audio-recorder-js",
-            "stars": 793
+            "stars": 793,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -896,12 +1429,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":musical_note: A tool for programmatic audio performance in the browser using Javascript.",
+            "homepage": "http://lissajousjs.com",
             "id": 17670471,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-11-09T03:22:46Z",
+            "open_issues": 11,
             "owner": "kylestetz",
             "repo": "lissajous",
-            "stars": 405
+            "stars": 405,
+            "topics": [
+              "audio",
+              "livecoding",
+              "music",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -912,12 +1455,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques",
+            "homepage": null,
             "id": 4689156,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-11-04T00:37:13Z",
+            "open_issues": 22,
             "owner": "gibber-cc",
             "repo": "gibberish",
-            "stars": 400
+            "stars": 400,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -928,12 +1476,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis",
+            "homepage": "http://amid.fish/javascript-karplus-strong",
             "id": 31852124,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-10-20T15:35:22Z",
+            "open_issues": 0,
             "owner": "mrahtz",
             "repo": "javascript-karplus-strong",
-            "stars": 303
+            "stars": 303,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -944,12 +1497,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NOTE: This project in not currently maintained.",
+            "homepage": null,
             "id": 5534071,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2017-08-15T20:18:26Z",
+            "open_issues": 4,
             "owner": "hoch",
             "repo": "WAAX",
-            "stars": 299
+            "stars": 299,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -960,12 +1518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":musical_keyboard: a QWERTY keyboard for web audio projects",
+            "homepage": null,
             "id": 40281243,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-08-09T06:00:25Z",
+            "open_issues": 5,
             "owner": "kylestetz",
             "repo": "AudioKeys",
-            "stars": 243
+            "stars": 243,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -976,12 +1539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web audio tuning library of microtonal and just intonation scales",
+            "homepage": null,
             "id": 39910865,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-02-19T08:04:55Z",
+            "open_issues": 3,
             "owner": "abbernie",
             "repo": "tune",
-            "stars": 181
+            "stars": 181,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -992,12 +1560,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detects the BPM of a song or audio sample",
+            "homepage": null,
             "id": 41603162,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-07-26T10:50:41Z",
+            "open_issues": 0,
             "owner": "tornqvist",
             "repo": "bpm-detective",
-            "stars": 147
+            "stars": 147,
+            "topics": [
+              "bpm",
+              "javascript",
+              "music"
+            ]
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -1008,12 +1585,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polyrhythmic Sequencer library for Web Audio API.",
+            "homepage": "http://zya.github.io/beet.js",
             "id": 36690266,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-12T01:50:00Z",
+            "open_issues": 11,
             "owner": "zya",
             "repo": "beet.js",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "audio",
+              "js",
+              "library",
+              "music",
+              "sequencing",
+              "webaudio",
+              "webaudio-api"
+            ]
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -1024,12 +1614,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of Web Audio API custom oscillators.",
+            "homepage": null,
             "id": 102636772,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-06-09T12:23:18Z",
+            "open_issues": 0,
             "owner": "lukehorvat",
             "repo": "web-audio-oscillators",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "audiocontext",
+              "oscillatornode",
+              "oscillators",
+              "periodicwave",
+              "web-audio"
+            ]
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -1040,12 +1641,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Web Audio API for CI",
+            "homepage": "http://mohayonao.github.io/web-audio-test-api/",
             "id": 23472159,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-08-28T13:29:29Z",
+            "open_issues": 3,
             "owner": "mohayonao",
             "repo": "web-audio-test-api",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -1056,12 +1662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript library for generating artificial reverb impulse responses.",
+            "homepage": null,
             "id": 26096970,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-16T15:39:11Z",
+            "open_issues": 7,
             "owner": "adelespinasse",
             "repo": "reverbGen",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -1072,12 +1683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript audio sampler / synthesizer for interactive music",
+            "homepage": "http://molgav.nn.ru/liblist.php?what=soul",
             "id": 40050467,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-06-24T09:17:51Z",
+            "open_issues": 0,
             "owner": "surikov",
             "repo": "SSSynthesiser.js",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -1088,12 +1704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Re-sample Audio",
+            "homepage": "http://chinpen.net/resampler/",
             "id": 30790317,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-06-23T17:33:47Z",
+            "open_issues": 3,
             "owner": "notthetup",
             "repo": "resampler",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -1104,12 +1725,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple ADSR envelope generator for web audio",
+            "homepage": null,
             "id": 56271912,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2017-04-04T22:54:48Z",
+            "open_issues": 3,
             "owner": "itsjoesullivan",
             "repo": "envelope-generator",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -1120,12 +1746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chainable AudioContext nodes",
+            "homepage": null,
             "id": 39264689,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2022-07-22T00:58:51Z",
+            "open_issues": 6,
             "owner": "mattlima",
             "repo": "mooog",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -1136,12 +1767,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "your codes should sing for themselves",
+            "homepage": "http://jcppman.github.io/code-player",
             "id": 36926298,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-17T15:28:08Z",
+            "open_issues": 0,
             "owner": "jcppman",
             "repo": "code-player",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "computational-art",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -1152,12 +1791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 5 stage audio envelope generator",
+            "homepage": null,
             "id": 61411107,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-06-18T14:47:22Z",
+            "open_issues": 0,
             "owner": "danigb",
             "repo": "audio-contour",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -1168,12 +1812,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "OSC message decoder/encoder with fault tolerant",
+            "homepage": null,
             "id": 35071788,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-06-24T00:56:48Z",
+            "open_issues": 1,
             "owner": "mohayonao",
             "repo": "osc-msg",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -1184,12 +1833,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Returns an object of attached midi ports with inputID, outputID, name, and manufacturer for more semantic MIDI port access.",
+            "homepage": null,
             "id": 55096212,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-11T00:14:37Z",
+            "open_issues": 0,
             "owner": "andrejhronco",
             "repo": "midi-ports",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "esm",
+              "midi",
+              "midi-controller",
+              "typescript",
+              "web-midi",
+              "web-midi-api",
+              "webmidi"
+            ]
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -1200,12 +1862,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility functions for Web Audio API",
+            "homepage": null,
             "id": 41534445,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-10-10T04:12:53Z",
+            "open_issues": 0,
             "owner": "mohayonao",
             "repo": "web-audio-utils",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         },
@@ -1216,12 +1883,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Play your favorite instrument in the browser, with complex note intervals and scales",
+            "homepage": null,
             "id": 90115685,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2017-05-06T13:14:27Z",
+            "open_issues": 5,
             "owner": "createbits",
             "repo": "playnote",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "audio",
+              "music-theory",
+              "webaudio"
+            ]
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
         }
@@ -1230,15 +1906,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:23:21.115Z",
+    "last_updated": "2026-08-29T04:30:17.488Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome WebAudio packages and resources.",
+      "homepage": null,
       "id": 43116480,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-05T01:54:36Z",
+      "open_issues": 11,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
-      "stars": 1395
+      "stars": 1396,
+      "topics": [
+        "audio",
+        "awesome",
+        "awesome-list",
+        "list",
+        "midi",
+        "webaudio"
+      ]
     },
     "original_repository_sha": "5ba94a8033c803be974a4a8d6a0874afad413c8f",
     "enhanced_repository": "enhansome/enhansome-webaudio",

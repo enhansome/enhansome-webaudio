@@ -50,7 +50,7 @@
                 "open_issues": 31,
                 "owner": "GoogleChrome",
                 "repo": "omnitone",
-                "stars": 910,
+                "stars": 911,
                 "topics": [
                   "ambisonics",
                   "hrtf",
@@ -76,7 +76,7 @@
                 "open_issues": 31,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 831,
+                "stars": 832,
                 "topics": [
                   "android",
                   "api",
@@ -810,7 +810,7 @@
                 "open_issues": 58,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1672,
+                "stars": 1673,
                 "topics": [
                   "annotations",
                   "audio",
@@ -1464,7 +1464,7 @@
             "open_issues": 22,
             "owner": "gibber-cc",
             "repo": "gibberish",
-            "stars": 400,
+            "stars": 401,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1545,7 +1545,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-02-19T08:04:55Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "abbernie",
             "repo": "tune",
             "stars": 181,
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:30:17.488Z",
+    "last_updated": "2026-08-29T13:07:47.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

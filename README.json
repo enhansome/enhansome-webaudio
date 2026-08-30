@@ -21,7 +21,7 @@
                 "open_issues": 59,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14714,
+                "stars": 14715,
                 "topics": [
                   "javascript",
                   "music",
@@ -168,7 +168,7 @@
                 "open_issues": 417,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25338,
+                "stars": 25337,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -198,7 +198,7 @@
                 "open_issues": 36,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10390,
+                "stars": 10391,
                 "topics": [
                   "audio",
                   "javascript",
@@ -247,7 +247,7 @@
                 "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1981,
+                "stars": 1982,
                 "topics": [
                   "audio",
                   "daw",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:07:47.588Z",
+    "last_updated": "2026-08-30T12:46:56.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

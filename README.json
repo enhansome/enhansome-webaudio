@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-21T18:39:13Z",
-                "open_issues": 59,
+                "open_issues": 61,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
                 "stars": 14715,
@@ -72,11 +72,11 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-28T12:08:20Z",
-                "open_issues": 31,
+                "last_commit": "2026-08-31T11:47:31Z",
+                "open_issues": 32,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 832,
+                "stars": 833,
                 "topics": [
                   "android",
                   "api",
@@ -168,7 +168,7 @@
                 "open_issues": 417,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25337,
+                "stars": 25338,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -198,7 +198,7 @@
                 "open_issues": 36,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10391,
+                "stars": 10392,
                 "topics": [
                   "audio",
                   "javascript",
@@ -507,7 +507,7 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-19T17:42:00Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "infojunkie",
                 "repo": "musicxml-player",
                 "stars": 86,
@@ -537,7 +537,7 @@
                 "open_issues": 0,
                 "owner": "NumberOneBot",
                 "repo": "dsssp",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "audio-effects",
                   "audio-engineering",
@@ -939,7 +939,7 @@
                 "open_issues": 0,
                 "owner": "MaxAlyokhin",
                 "repo": "binary-synth",
-                "stars": 130,
+                "stars": 131,
                 "topics": [
                   "art",
                   "audio",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T12:46:56.101Z",
+    "last_updated": "2026-08-31T15:01:23.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

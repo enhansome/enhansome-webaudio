@@ -21,7 +21,7 @@
                 "open_issues": 61,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14716,
+                "stars": 14718,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,11 +72,11 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-31T11:47:31Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-02T11:50:53Z",
+                "open_issues": 37,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 833,
+                "stars": 835,
                 "topics": [
                   "android",
                   "api",
@@ -168,7 +168,7 @@
                 "open_issues": 417,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25337,
+                "stars": 25338,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -194,7 +194,7 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-21T11:58:21Z",
+                "last_commit": "2026-09-02T11:45:52Z",
                 "open_issues": 36,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
@@ -247,7 +247,7 @@
                 "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1982,
+                "stars": 1983,
                 "topics": [
                   "audio",
                   "daw",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T12:31:15.499Z",
+    "last_updated": "2026-09-02T12:04:21.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1918,7 +1918,7 @@
       "open_issues": 11,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
-      "stars": 1396,
+      "stars": 1397,
       "topics": [
         "audio",
         "awesome",

@@ -17,8 +17,8 @@
                 "id": 17618901,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-21T18:39:13Z",
-                "open_issues": 61,
+                "last_commit": "2026-09-03T00:12:17Z",
+                "open_issues": 64,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
                 "stars": 14718,
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-02T11:50:53Z",
-                "open_issues": 37,
+                "last_commit": "2026-09-03T10:05:01Z",
+                "open_issues": 40,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 835,
@@ -168,7 +168,7 @@
                 "open_issues": 417,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25338,
+                "stars": 25339,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -194,11 +194,11 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-02T11:45:52Z",
-                "open_issues": 36,
+                "last_commit": "2026-09-03T08:15:47Z",
+                "open_issues": 14,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10392,
+                "stars": 10395,
                 "topics": [
                   "audio",
                   "javascript",
@@ -247,7 +247,7 @@
                 "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1983,
+                "stars": 1982,
                 "topics": [
                   "audio",
                   "daw",
@@ -939,7 +939,7 @@
                 "open_issues": 0,
                 "owner": "MaxAlyokhin",
                 "repo": "binary-synth",
-                "stars": 131,
+                "stars": 132,
                 "topics": [
                   "art",
                   "audio",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:04:21.906Z",
+    "last_updated": "2026-09-03T12:03:38.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

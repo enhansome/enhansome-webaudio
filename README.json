@@ -21,7 +21,7 @@
                 "open_issues": 64,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14718,
+                "stars": 14717,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,11 +72,11 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-03T10:05:01Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-04T11:32:07Z",
+                "open_issues": 37,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 835,
+                "stars": 836,
                 "topics": [
                   "android",
                   "api",
@@ -194,11 +194,11 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-03T08:15:47Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-03T18:48:16Z",
+                "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10395,
+                "stars": 10396,
                 "topics": [
                   "audio",
                   "javascript",
@@ -334,7 +334,7 @@
                 "open_issues": 21,
                 "owner": "cifkao",
                 "repo": "html-midi-player",
-                "stars": 902,
+                "stars": 903,
                 "topics": [
                   "audio-player",
                   "html",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:03:38.194Z",
+    "last_updated": "2026-09-04T12:05:13.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1915,7 +1915,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-05T01:54:36Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
       "stars": 1397,

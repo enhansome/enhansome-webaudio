@@ -73,7 +73,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-04T14:21:09Z",
-                "open_issues": 40,
+                "open_issues": 42,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 836,
@@ -168,7 +168,7 @@
                 "open_issues": 417,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25339,
+                "stars": 25340,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -198,7 +198,7 @@
                 "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10398,
+                "stars": 10401,
                 "topics": [
                   "audio",
                   "javascript",
@@ -918,7 +918,7 @@
                 "open_issues": 5,
                 "owner": "g200kg",
                 "repo": "webaudio-tinysynth",
-                "stars": 273,
+                "stars": 269,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:14:01.362Z",
+    "last_updated": "2026-09-06T11:37:11.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1915,7 +1915,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-05T01:54:36Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
       "stars": 1397,

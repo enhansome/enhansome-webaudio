@@ -72,7 +72,7 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-11T12:04:01Z",
+                "last_commit": "2026-09-11T16:03:44Z",
                 "open_issues": 42,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
@@ -168,7 +168,7 @@
                 "open_issues": 417,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25342,
+                "stars": 25343,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -195,10 +195,10 @@
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-10T20:11:15Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10407,
+                "stars": 10408,
                 "topics": [
                   "audio",
                   "javascript",
@@ -1485,7 +1485,7 @@
             "open_issues": 0,
             "owner": "mrahtz",
             "repo": "javascript-karplus-strong",
-            "stars": 303,
+            "stars": 302,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:10:07.615Z",
+    "last_updated": "2026-09-12T11:34:45.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

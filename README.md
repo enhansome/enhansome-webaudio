@@ -1,12 +1,12 @@
 # Awesome WebAudio with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 505,005 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 505,298 | 🐛 106 | 📅 2026-09-02
 
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/webaudio/webaudio-js.png" width="200px" alt="WebAudio">
 
 > A curated list of awesome [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [packages](#packages) and [demos](#demos).
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,005 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,298 | 🐛 106 | 📅 2026-09-02 list thing.
 
 Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) ⭐ 1,397 | 🐛 17 | 📅 2026-06-05 to add an awesome WebAudio thing to this list.
 
@@ -38,8 +38,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Libraries
 
-* [Howler.js](https://github.com/goldfire/howler.js) ⭐ 25,342 | 🐛 417 | 🌐 JavaScript | 📅 2025-11-23 - A comprehensive library with a fallback to HTML5 Audio.
-* [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,407 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-10 - Interactive navigable audio visualization using Web Audio and Canvas.
+* [Howler.js](https://github.com/goldfire/howler.js) ⭐ 25,343 | 🐛 417 | 🌐 JavaScript | 📅 2025-11-23 - A comprehensive library with a fallback to HTML5 Audio.
+* [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,408 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-10 - Interactive navigable audio visualization using Web Audio and Canvas.
 * [@magenta/music](https://github.com/magenta/magenta-js/tree/master/music) ⭐ 2,126 | 🐛 136 | 🌐 TypeScript | 📅 2026-06-22 - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
 * [Wad](https://github.com/rserota/wad) ⭐ 1,982 | 🐛 3 | 🌐 JavaScript | 📅 2025-11-06 - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 * [Tuna](https://github.com/Theodeus/tuna) ⭐ 1,830 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-06 - An audio effects library.
@@ -145,7 +145,7 @@ Projects without activity since January 2019 or officially dead.
 * [web-audio-recorder-js](https://github.com/higuma/web-audio-recorder-js) ⭐ 793 | 🐛 42 | 🌐 JavaScript | 📅 2023-11-08 - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
 * [lissajous](https://github.com/kylestetz/lissajous) ⭐ 405 | 🐛 11 | 🌐 JavaScript | 📅 2015-11-09 - A tool for programmatic audio performance.
 * [Gibberish](https://github.com/gibber-cc/gibberish) ⭐ 401 | 🐛 22 | 🌐 JavaScript | 📅 2025-11-04 - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
-* [javascript-karplus-strong](https://github.com/mrahtz/javascript-karplus-strong) ⭐ 303 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-20 - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
+* [javascript-karplus-strong](https://github.com/mrahtz/javascript-karplus-strong) ⭐ 302 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-20 - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
 * [WAAX](https://github.com/hoch/WAAX/) ⭐ 299 | 🐛 4 | 🌐 HTML | 📅 2017-08-15 - Build Music Apps for browsers.
 * [AudioKeys](https://github.com/kylestetz/AudioKeys) ⭐ 243 | 🐛 5 | 🌐 JavaScript | 📅 2023-08-09 - A QWERTY keyboard for web audio projects.
 * [TuneJS](https://github.com/abbernie/tune) ⭐ 181 | 🐛 4 | 🌐 HTML | 📅 2026-02-19 - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
@@ -175,4 +175,4 @@ To the extent possible under law, [Chinmay Pendharkar](https://chinmay.audio/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

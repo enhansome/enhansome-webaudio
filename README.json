@@ -168,7 +168,7 @@
                 "open_issues": 417,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25343,
+                "stars": 25342,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -198,7 +198,7 @@
                 "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10408,
+                "stars": 10409,
                 "topics": [
                   "audio",
                   "javascript",
@@ -304,7 +304,7 @@
                 "open_issues": 70,
                 "owner": "meyda",
                 "repo": "meyda",
-                "stars": 1666,
+                "stars": 1667,
                 "topics": [
                   "audio-features",
                   "feature-extraction",
@@ -510,7 +510,7 @@
                 "open_issues": 13,
                 "owner": "infojunkie",
                 "repo": "musicxml-player",
-                "stars": 87,
+                "stars": 86,
                 "topics": [
                   "midi",
                   "music-i18n",
@@ -718,7 +718,7 @@
                 "open_issues": 19,
                 "owner": "jazz-soft",
                 "repo": "JZZ",
-                "stars": 594,
+                "stars": 595,
                 "topics": [
                   "audio",
                   "javascript",
@@ -1485,7 +1485,7 @@
             "open_issues": 0,
             "owner": "mrahtz",
             "repo": "javascript-karplus-strong",
-            "stars": 302,
+            "stars": 303,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:34:45.696Z",
+    "last_updated": "2026-09-13T12:40:50.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1915,7 +1915,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-05T01:54:36Z",
-      "open_issues": 17,
+      "open_issues": 19,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
       "stars": 1397,

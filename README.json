@@ -21,7 +21,7 @@
                 "open_issues": 65,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14719,
+                "stars": 14720,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-14T13:30:40Z",
-                "open_issues": 42,
+                "last_commit": "2026-09-15T12:30:38Z",
+                "open_issues": 35,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 838,
@@ -198,7 +198,7 @@
                 "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10412,
+                "stars": 10413,
                 "topics": [
                   "audio",
                   "javascript",
@@ -810,7 +810,7 @@
                 "open_issues": 59,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1677,
+                "stars": 1678,
                 "topics": [
                   "annotations",
                   "audio",
@@ -1349,7 +1349,7 @@
             "open_issues": 78,
             "owner": "alemangui",
             "repo": "pizzicato",
-            "stars": 1712,
+            "stars": 1711,
             "topics": [
               "audio",
               "effects",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T13:53:27.167Z",
+    "last_updated": "2026-09-15T12:37:19.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1915,7 +1915,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-05T01:54:36Z",
-      "open_issues": 23,
+      "open_issues": 24,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
       "stars": 1397,

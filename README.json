@@ -21,7 +21,7 @@
                 "open_issues": 58,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14721,
+                "stars": 14725,
                 "topics": [
                   "javascript",
                   "music",
@@ -46,11 +46,11 @@
                 "id": 60283346,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-08T07:45:06Z",
+                "last_commit": "2026-09-16T22:44:03Z",
                 "open_issues": 31,
                 "owner": "GoogleChrome",
                 "repo": "omnitone",
-                "stars": 911,
+                "stars": 912,
                 "topics": [
                   "ambisonics",
                   "hrtf",
@@ -72,11 +72,11 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-16T11:50:14Z",
-                "open_issues": 36,
+                "last_commit": "2026-09-17T12:05:32Z",
+                "open_issues": 38,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 838,
+                "stars": 837,
                 "topics": [
                   "android",
                   "api",
@@ -198,7 +198,7 @@
                 "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10415,
+                "stars": 10417,
                 "topics": [
                   "audio",
                   "javascript",
@@ -537,7 +537,7 @@
                 "open_issues": 0,
                 "owner": "NumberOneBot",
                 "repo": "dsssp",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "audio-effects",
                   "audio-engineering",
@@ -1117,7 +1117,7 @@
                 "open_issues": 7,
                 "owner": "k1ln",
                 "repo": "synflow",
-                "stars": 10,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:33:33.155Z",
+    "last_updated": "2026-09-17T12:33:07.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1915,10 +1915,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-05T01:54:36Z",
-      "open_issues": 24,
+      "open_issues": 25,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
-      "stars": 1398,
+      "stars": 1397,
       "topics": [
         "audio",
         "awesome",

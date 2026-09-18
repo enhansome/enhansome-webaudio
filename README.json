@@ -21,7 +21,7 @@
                 "open_issues": 58,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14725,
+                "stars": 14727,
                 "topics": [
                   "javascript",
                   "music",
@@ -46,11 +46,11 @@
                 "id": 60283346,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T22:44:03Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-18T00:16:15Z",
+                "open_issues": 8,
                 "owner": "GoogleChrome",
                 "repo": "omnitone",
-                "stars": 912,
+                "stars": 913,
                 "topics": [
                   "ambisonics",
                   "hrtf",
@@ -72,11 +72,11 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-17T12:05:32Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-18T10:40:24Z",
+                "open_issues": 40,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 837,
+                "stars": 839,
                 "topics": [
                   "android",
                   "api",
@@ -168,7 +168,7 @@
                 "open_issues": 417,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25347,
+                "stars": 25349,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -198,7 +198,7 @@
                 "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10417,
+                "stars": 10419,
                 "topics": [
                   "audio",
                   "javascript",
@@ -226,7 +226,7 @@
                 "open_issues": 136,
                 "owner": "magenta",
                 "repo": "magenta-js",
-                "stars": 2126,
+                "stars": 2124,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -277,7 +277,7 @@
                 "open_issues": 4,
                 "owner": "Theodeus",
                 "repo": "tuna",
-                "stars": 1830,
+                "stars": 1829,
                 "topics": [
                   "audio",
                   "audio-effect",
@@ -369,7 +369,7 @@
                 "open_issues": 9,
                 "owner": "benji6",
                 "repo": "virtual-audio-graph",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "audio",
                   "audio-worklet",
@@ -450,7 +450,7 @@
                 "open_issues": 14,
                 "owner": "kelvinau",
                 "repo": "circular-audio-wave",
-                "stars": 281,
+                "stars": 282,
                 "topics": [
                   "audio-reactive",
                   "canvas",
@@ -510,7 +510,7 @@
                 "open_issues": 13,
                 "owner": "infojunkie",
                 "repo": "musicxml-player",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "midi",
                   "music-i18n",
@@ -810,7 +810,7 @@
                 "open_issues": 59,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1678,
+                "stars": 1679,
                 "topics": [
                   "annotations",
                   "audio",
@@ -1349,7 +1349,7 @@
             "open_issues": 78,
             "owner": "alemangui",
             "repo": "pizzicato",
-            "stars": 1711,
+            "stars": 1710,
             "topics": [
               "audio",
               "effects",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T12:33:07.699Z",
+    "last_updated": "2026-09-18T12:11:20.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

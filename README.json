@@ -21,7 +21,7 @@
                 "open_issues": 58,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14727,
+                "stars": 14728,
                 "topics": [
                   "javascript",
                   "music",
@@ -46,11 +46,11 @@
                 "id": 60283346,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T00:16:15Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-19T04:27:18Z",
+                "open_issues": 4,
                 "owner": "GoogleChrome",
                 "repo": "omnitone",
-                "stars": 913,
+                "stars": 911,
                 "topics": [
                   "ambisonics",
                   "hrtf",
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-18T10:40:24Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-18T15:23:02Z",
+                "open_issues": 37,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 839,
@@ -194,7 +194,7 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-10T20:11:15Z",
+                "last_commit": "2026-09-18T17:23:58Z",
                 "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
@@ -226,7 +226,7 @@
                 "open_issues": 136,
                 "owner": "magenta",
                 "repo": "magenta-js",
-                "stars": 2124,
+                "stars": 2125,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -918,7 +918,7 @@
                 "open_issues": 5,
                 "owner": "g200kg",
                 "repo": "webaudio-tinysynth",
-                "stars": 269,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1117,7 +1117,7 @@
                 "open_issues": 7,
                 "owner": "k1ln",
                 "repo": "synflow",
-                "stars": 13,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1328,7 +1328,7 @@
             "open_issues": 154,
             "owner": "mattdiamond",
             "repo": "Recorderjs",
-            "stars": 4240,
+            "stars": 4239,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1375,7 +1375,7 @@
             "open_issues": 12,
             "owner": "meenie",
             "repo": "band.js",
-            "stars": 1190,
+            "stars": 1189,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:11:20.381Z",
+    "last_updated": "2026-09-19T11:54:28.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

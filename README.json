@@ -76,7 +76,7 @@
                 "open_issues": 37,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 839,
+                "stars": 840,
                 "topics": [
                   "android",
                   "api",
@@ -226,7 +226,7 @@
                 "open_issues": 136,
                 "owner": "magenta",
                 "repo": "magenta-js",
-                "stars": 2125,
+                "stars": 2126,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -247,7 +247,7 @@
                 "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1982,
+                "stars": 1983,
                 "topics": [
                   "audio",
                   "daw",
@@ -334,7 +334,7 @@
                 "open_issues": 21,
                 "owner": "cifkao",
                 "repo": "html-midi-player",
-                "stars": 906,
+                "stars": 907,
                 "topics": [
                   "audio-player",
                   "html",
@@ -810,7 +810,7 @@
                 "open_issues": 59,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1679,
+                "stars": 1678,
                 "topics": [
                   "annotations",
                   "audio",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:54:28.995Z",
+    "last_updated": "2026-09-20T12:14:31.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1915,7 +1915,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-05T01:54:36Z",
-      "open_issues": 25,
+      "open_issues": 26,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
       "stars": 1397,

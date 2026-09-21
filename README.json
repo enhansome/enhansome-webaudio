@@ -21,7 +21,7 @@
                 "open_issues": 58,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14728,
+                "stars": 14731,
                 "topics": [
                   "javascript",
                   "music",
@@ -73,7 +73,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-18T15:23:02Z",
-                "open_issues": 37,
+                "open_issues": 39,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 840,
@@ -168,7 +168,7 @@
                 "open_issues": 417,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25349,
+                "stars": 25351,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -194,8 +194,8 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-18T17:23:58Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-21T11:50:49Z",
+                "open_issues": 14,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
                 "stars": 10419,
@@ -425,7 +425,7 @@
                 "open_issues": 6,
                 "owner": "audiojs",
                 "repo": "audio",
-                "stars": 308,
+                "stars": 309,
                 "topics": [
                   "audio",
                   "audiojs",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T12:14:31.616Z",
+    "last_updated": "2026-09-21T13:55:53.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

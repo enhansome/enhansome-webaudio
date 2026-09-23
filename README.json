@@ -21,7 +21,7 @@
                 "open_issues": 58,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14732,
+                "stars": 14733,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-22T11:58:21Z",
-                "open_issues": 39,
+                "last_commit": "2026-09-23T10:42:41Z",
+                "open_issues": 40,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 841,
@@ -168,7 +168,7 @@
                 "open_issues": 418,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25352,
+                "stars": 25351,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -304,7 +304,7 @@
                 "open_issues": 70,
                 "owner": "meyda",
                 "repo": "meyda",
-                "stars": 1667,
+                "stars": 1668,
                 "topics": [
                   "audio-features",
                   "feature-extraction",
@@ -479,7 +479,7 @@
                 "open_issues": 5,
                 "owner": "jerosoler",
                 "repo": "waveform-path",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "audio",
                   "audio-player",
@@ -918,7 +918,7 @@
                 "open_issues": 5,
                 "owner": "g200kg",
                 "repo": "webaudio-tinysynth",
-                "stars": 270,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1113,7 +1113,7 @@
                 "id": 1127876110,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T13:33:00Z",
+                "last_commit": "2026-09-22T17:53:43Z",
                 "open_issues": 7,
                 "owner": "k1ln",
                 "repo": "synflow",
@@ -1328,7 +1328,7 @@
             "open_issues": 154,
             "owner": "mattdiamond",
             "repo": "Recorderjs",
-            "stars": 4239,
+            "stars": 4240,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T12:32:24.871Z",
+    "last_updated": "2026-09-23T12:42:37.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-16T00:32:45Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14740,
+                "stars": 14742,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,11 +72,11 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-25T18:08:31Z",
+                "last_commit": "2026-09-27T11:33:11Z",
                 "open_issues": 46,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 843,
+                "stars": 844,
                 "topics": [
                   "android",
                   "api",
@@ -168,7 +168,7 @@
                 "open_issues": 418,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25352,
+                "stars": 25353,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -198,7 +198,7 @@
                 "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10417,
+                "stars": 10420,
                 "topics": [
                   "audio",
                   "javascript",
@@ -810,7 +810,7 @@
                 "open_issues": 59,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1680,
+                "stars": 1679,
                 "topics": [
                   "annotations",
                   "audio",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T12:10:56.234Z",
+    "last_updated": "2026-09-27T12:56:04.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

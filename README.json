@@ -46,8 +46,8 @@
                 "id": 60283346,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T04:27:18Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-30T05:04:37Z",
+                "open_issues": 3,
                 "owner": "GoogleChrome",
                 "repo": "omnitone",
                 "stars": 911,
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-29T13:37:42Z",
-                "open_issues": 45,
+                "last_commit": "2026-09-30T13:23:24Z",
+                "open_issues": 46,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 845,
@@ -198,7 +198,7 @@
                 "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10422,
+                "stars": 10426,
                 "topics": [
                   "audio",
                   "javascript",
@@ -421,7 +421,7 @@
                 "id": 59882536,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-27T19:46:20Z",
+                "last_commit": "2026-09-30T02:55:04Z",
                 "open_issues": 6,
                 "owner": "audiojs",
                 "repo": "audio",
@@ -810,7 +810,7 @@
                 "open_issues": 58,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1679,
+                "stars": 1680,
                 "topics": [
                   "annotations",
                   "audio",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T13:58:36.117Z",
+    "last_updated": "2026-09-30T13:34:58.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

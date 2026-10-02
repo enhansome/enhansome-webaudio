@@ -1,14 +1,14 @@
 # Awesome WebAudio with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 513,085 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 513,542 | 🐛 106 | 📅 2026-09-02
 
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/webaudio/webaudio-js.png" width="200px" alt="WebAudio">
 
 > A curated list of awesome [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [packages](#packages) and [demos](#demos).
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,085 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,542 | 🐛 106 | 📅 2026-09-02 list thing.
 
-Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) ⭐ 1,398 | 🐛 29 | 📅 2026-06-05 to add an awesome WebAudio thing to this list.
+Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) ⭐ 1,398 | 🐛 31 | 📅 2026-06-05 to add an awesome WebAudio thing to this list.
 
 ## Contents
 
@@ -29,9 +29,9 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Frameworks
 
-* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,746 | 🐛 58 | 🌐 TypeScript | 📅 2026-09-29 - A framework for making interactive music in the browser.
+* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,746 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-02 - A framework for making interactive music in the browser.
 * [Omnitone](https://github.com/GoogleChrome/omnitone) ⭐ 912 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-30 - Ambisonic spatial audio on the web.
-* [React Native Audio API](https://github.com/software-mansion-labs/react-native-audio-api) ⭐ 846 | 🐛 46 | 🌐 C++ | 📅 2026-10-01 - Web Audio API implementation for native apps based on react-native.
+* [React Native Audio API](https://github.com/software-mansion-labs/react-native-audio-api) ⭐ 847 | 🐛 41 | 🌐 C++ | 📅 2026-10-02 - Web Audio API implementation for native apps based on react-native.
 * [Bap](https://github.com/adamrenklint/bap) ⚠️ Archived - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
 * [Mach1Spatial](https://github.com/Mach1Studios/m1-sdk) ⭐ 65 | 🐛 1 | 🌐 C | 📅 2026-08-16 - Vector based panning spatial audio on the web.
 * [Elementary](https://www.elementary.audio/) – Declarative, functional framework for writing audio software on the web or for native apps
@@ -39,8 +39,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ### Libraries
 
 * [Howler.js](https://github.com/goldfire/howler.js) ⭐ 25,358 | 🐛 418 | 🌐 JavaScript | 📅 2025-11-23 - A comprehensive library with a fallback to HTML5 Audio.
-* [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,428 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-01 - Interactive navigable audio visualization using Web Audio and Canvas.
-* [@magenta/music](https://github.com/magenta/magenta-js/tree/master/music) ⭐ 2,127 | 🐛 136 | 🌐 TypeScript | 📅 2026-06-22 - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
+* [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,427 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-02 - Interactive navigable audio visualization using Web Audio and Canvas.
+* [@magenta/music](https://github.com/magenta/magenta-js/tree/master/music) ⭐ 2,128 | 🐛 136 | 🌐 TypeScript | 📅 2026-06-22 - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
 * [Wad](https://github.com/rserota/wad) ⭐ 1,984 | 🐛 3 | 🌐 JavaScript | 📅 2025-11-06 - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 * [Tuna](https://github.com/Theodeus/tuna) ⭐ 1,829 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-06 - An audio effects library.
 * [Meyda](https://github.com/meyda/meyda) ⭐ 1,669 | 🐛 70 | 🌐 TypeScript | 📅 2024-07-15 - Audio feature extraction library including a variety of widely used audio features.
@@ -175,4 +175,4 @@ To the extent possible under law, [Chinmay Pendharkar](https://chinmay.audio/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

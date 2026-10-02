@@ -17,8 +17,8 @@
                 "id": 17618901,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T06:15:07Z",
-                "open_issues": 58,
+                "last_commit": "2026-10-02T12:53:04Z",
+                "open_issues": 60,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
                 "stars": 14746,
@@ -72,11 +72,11 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:20:32Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-02T10:28:13Z",
+                "open_issues": 41,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 846,
+                "stars": 847,
                 "topics": [
                   "android",
                   "api",
@@ -194,11 +194,11 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-01T06:42:51Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-02T08:19:18Z",
+                "open_issues": 17,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10428,
+                "stars": 10427,
                 "topics": [
                   "audio",
                   "javascript",
@@ -226,7 +226,7 @@
                 "open_issues": 136,
                 "owner": "magenta",
                 "repo": "magenta-js",
-                "stars": 2127,
+                "stars": 2128,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T14:24:24.666Z",
+    "last_updated": "2026-10-02T13:47:24.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1915,7 +1915,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-05T01:54:36Z",
-      "open_issues": 29,
+      "open_issues": 31,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
       "stars": 1398,

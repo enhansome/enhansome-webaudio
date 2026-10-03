@@ -165,7 +165,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-11-23T23:49:01Z",
-                "open_issues": 418,
+                "open_issues": 419,
                 "owner": "goldfire",
                 "repo": "howler.js",
                 "stars": 25356,
@@ -195,10 +195,10 @@
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-02T08:19:18Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10425,
+                "stars": 10426,
                 "topics": [
                   "audio",
                   "javascript",
@@ -421,7 +421,7 @@
                 "id": 59882536,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T03:48:15Z",
+                "last_commit": "2026-10-03T05:30:42Z",
                 "open_issues": 6,
                 "owner": "audiojs",
                 "repo": "audio",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:16:58.011Z",
+    "last_updated": "2026-10-03T12:26:30.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

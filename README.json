@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-03T02:13:07Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14748,
+                "stars": 14750,
                 "topics": [
                   "javascript",
                   "music",
@@ -168,7 +168,7 @@
                 "open_issues": 419,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25356,
+                "stars": 25357,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -198,7 +198,7 @@
                 "open_issues": 17,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10426,
+                "stars": 10427,
                 "topics": [
                   "audio",
                   "javascript",
@@ -897,7 +897,7 @@
                 "open_issues": 7,
                 "owner": "cwilso",
                 "repo": "metronome",
-                "stars": 615,
+                "stars": 616,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1113,7 +1113,7 @@
                 "id": 1127876110,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T17:53:43Z",
+                "last_commit": "2026-10-04T09:28:27Z",
                 "open_issues": 7,
                 "owner": "k1ln",
                 "repo": "synflow",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:26:30.893Z",
+    "last_updated": "2026-10-04T13:08:17.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

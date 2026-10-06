@@ -1,12 +1,12 @@
 # Awesome WebAudio with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 515,371 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 515,456 | 🐛 106 | 📅 2026-09-02
 
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/webaudio/webaudio-js.png" width="200px" alt="WebAudio">
 
 > A curated list of awesome [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [packages](#packages) and [demos](#demos).
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,371 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,456 | 🐛 106 | 📅 2026-09-02 list thing.
 
 Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) to add an awesome WebAudio thing to this list.
 
@@ -47,7 +47,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 * [html-midi-player](https://github.com/cifkao/html-midi-player) ⭐ 911 | 🐛 21 | 🌐 TypeScript | 📅 2025-07-06 - HTML elements for easy MIDI playback and visualization, without the need to write any custom JS code, but scriptable and stylable as needed.
 * [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) ⭐ 369 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-25 - Library for declaratively manipulating the Web Audio API.
 * [Sound.js](https://github.com/kittykatattack/sound.js) ⭐ 318 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 - A micro-library to load, play and generate sound effects and music for games and interactive applications.
-* [Audiojs](https://github.com/audiojs/audio) ⭐ 311 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-05 - An object that enables you to store, read, and write PCM audio data more easily.
+* [Audiojs](https://github.com/audiojs/audio) ⭐ 311 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-06 - An object that enables you to store, read, and write PCM audio data more easily.
 * [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) ⭐ 283 | 🐛 14 | 🌐 JavaScript | 📅 2024-05-18 - A JS library for audio visualization in circular wave using Web Audio API and ECharts.
 * [waveform-path](https://github.com/jerosoler/waveform-path) ⭐ 134 | 🐛 5 | 🌐 JavaScript | 📅 2024-10-18 - Library to generate waveforms paths in svg.
 * [MusicXML Player](https://github.com/infojunkie/musicxml-player) ⭐ 89 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-19 - A TypeScript component that loads and plays MusicXML files in the browser using Web Audio and Web MIDI.

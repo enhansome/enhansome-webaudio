@@ -72,7 +72,7 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-06T09:42:55Z",
+                "last_commit": "2026-10-06T13:22:07Z",
                 "open_issues": 39,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
@@ -416,12 +416,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "High-level audio manipulations",
+                "description": "High-level audio manipulations: loading, playback, analysis and editing. 140+ plugins: denoise, dynamics, EQ, filters, effects, reverb, time and pitch, spatial, synthesis, music analysis.",
                 "homepage": "http://audiojs.dev/audio/",
                 "id": 59882536,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T22:34:06Z",
+                "last_commit": "2026-10-06T13:47:23Z",
                 "open_issues": 6,
                 "owner": "audiojs",
                 "repo": "audio",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:01:05.919Z",
+    "last_updated": "2026-10-06T14:07:16.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1918,7 +1918,7 @@
       "open_issues": 33,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
-      "stars": 1398,
+      "stars": 1397,
       "topics": [
         "audio",
         "awesome",

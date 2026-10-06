@@ -72,11 +72,11 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-05T14:39:42Z",
-                "open_issues": 42,
+                "last_commit": "2026-10-06T09:42:55Z",
+                "open_issues": 39,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 847,
+                "stars": 848,
                 "topics": [
                   "android",
                   "api",
@@ -198,7 +198,7 @@
                 "open_issues": 14,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10427,
+                "stars": 10428,
                 "topics": [
                   "audio",
                   "javascript",
@@ -226,7 +226,7 @@
                 "open_issues": 136,
                 "owner": "magenta",
                 "repo": "magenta-js",
-                "stars": 2128,
+                "stars": 2129,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -421,7 +421,7 @@
                 "id": 59882536,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-04T23:06:43Z",
+                "last_commit": "2026-10-05T22:34:06Z",
                 "open_issues": 6,
                 "owner": "audiojs",
                 "repo": "audio",
@@ -450,7 +450,7 @@
                 "open_issues": 14,
                 "owner": "kelvinau",
                 "repo": "circular-audio-wave",
-                "stars": 282,
+                "stars": 283,
                 "topics": [
                   "audio-reactive",
                   "canvas",
@@ -810,7 +810,7 @@
                 "open_issues": 58,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1679,
+                "stars": 1680,
                 "topics": [
                   "annotations",
                   "audio",
@@ -1113,7 +1113,7 @@
                 "id": 1127876110,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-04T17:27:43Z",
+                "last_commit": "2026-10-05T20:43:53Z",
                 "open_issues": 7,
                 "owner": "k1ln",
                 "repo": "synflow",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T15:52:52.818Z",
+    "last_updated": "2026-10-06T11:01:05.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1915,7 +1915,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-05T01:54:36Z",
-      "open_issues": 32,
+      "open_issues": 33,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
       "stars": 1398,

@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-04T20:15:08Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14753,
+                "stars": 14754,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-07T10:34:37Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-08T13:10:30Z",
+                "open_issues": 40,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 848,
@@ -168,7 +168,7 @@
                 "open_issues": 420,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25357,
+                "stars": 25359,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -195,10 +195,10 @@
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-07T10:20:07Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10429,
+                "stars": 10431,
                 "topics": [
                   "audio",
                   "javascript",
@@ -226,7 +226,7 @@
                 "open_issues": 136,
                 "owner": "magenta",
                 "repo": "magenta-js",
-                "stars": 2130,
+                "stars": 2131,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -247,7 +247,7 @@
                 "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1984,
+                "stars": 1985,
                 "topics": [
                   "audio",
                   "daw",
@@ -304,7 +304,7 @@
                 "open_issues": 70,
                 "owner": "meyda",
                 "repo": "meyda",
-                "stars": 1669,
+                "stars": 1670,
                 "topics": [
                   "audio-features",
                   "feature-extraction",
@@ -334,7 +334,7 @@
                 "open_issues": 21,
                 "owner": "cifkao",
                 "repo": "html-midi-player",
-                "stars": 911,
+                "stars": 910,
                 "topics": [
                   "audio-player",
                   "html",
@@ -421,11 +421,11 @@
                 "id": 59882536,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T03:06:28Z",
+                "last_commit": "2026-10-08T00:41:11Z",
                 "open_issues": 6,
                 "owner": "audiojs",
                 "repo": "audio",
-                "stars": 311,
+                "stars": 312,
                 "topics": [
                   "audio",
                   "audiojs",
@@ -810,7 +810,7 @@
                 "open_issues": 56,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1681,
+                "stars": 1682,
                 "topics": [
                   "annotations",
                   "audio",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T14:25:12.476Z",
+    "last_updated": "2026-10-08T14:31:20.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1918,7 +1918,7 @@
       "open_issues": 33,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
-      "stars": 1397,
+      "stars": 1398,
       "topics": [
         "audio",
         "awesome",

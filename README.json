@@ -21,7 +21,7 @@
                 "open_issues": 54,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14754,
+                "stars": 14755,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-08T13:10:30Z",
-                "open_issues": 40,
+                "last_commit": "2026-10-09T12:27:59Z",
+                "open_issues": 39,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 848,
@@ -194,11 +194,11 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-07T10:20:07Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-09T09:35:29Z",
+                "open_issues": 10,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10431,
+                "stars": 10434,
                 "topics": [
                   "audio",
                   "javascript",
@@ -247,7 +247,7 @@
                 "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1985,
+                "stars": 1986,
                 "topics": [
                   "audio",
                   "daw",
@@ -277,7 +277,7 @@
                 "open_issues": 4,
                 "owner": "Theodeus",
                 "repo": "tuna",
-                "stars": 1830,
+                "stars": 1831,
                 "topics": [
                   "audio",
                   "audio-effect",
@@ -390,6 +390,31 @@
             },
             {
               "node_type": "item",
+              "title": "Audiojs",
+              "description": "An object that enables you to store, read, and write PCM audio data more easily.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "High-level audio manipulations: loading, playback, analysis and editing. 140+ plugins: denoise, dynamics, EQ, filters, effects, reverb, time and pitch, spatial, synthesis, music analysis.",
+                "homepage": "https://audio.js.org",
+                "id": 59882536,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-08T22:53:11Z",
+                "open_issues": 6,
+                "owner": "audiojs",
+                "repo": "audio",
+                "stars": 320,
+                "topics": [
+                  "audio",
+                  "audiojs",
+                  "javascript"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:21.115Z"
+            },
+            {
+              "node_type": "item",
               "title": "Sound.js",
               "description": "A micro-library to load, play and generate sound effects and music for games and interactive applications.",
               "children": [],
@@ -406,31 +431,6 @@
                 "repo": "sound.js",
                 "stars": 318,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:21.115Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Audiojs",
-              "description": "An object that enables you to store, read, and write PCM audio data more easily.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "High-level audio manipulations: loading, playback, analysis and editing. 140+ plugins: denoise, dynamics, EQ, filters, effects, reverb, time and pitch, spatial, synthesis, music analysis.",
-                "homepage": "http://audiojs.dev/audio/",
-                "id": 59882536,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-10-08T00:41:11Z",
-                "open_issues": 6,
-                "owner": "audiojs",
-                "repo": "audio",
-                "stars": 312,
-                "topics": [
-                  "audio",
-                  "audiojs",
-                  "javascript"
-                ]
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
             },
@@ -537,7 +537,7 @@
                 "open_issues": 0,
                 "owner": "NumberOneBot",
                 "repo": "dsssp",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "audio-effects",
                   "audio-engineering",
@@ -579,7 +579,7 @@
                 "open_issues": 0,
                 "owner": "jerosoler",
                 "repo": "wave-audio-path-player",
-                "stars": 68,
+                "stars": 67,
                 "topics": [
                   "audio-player",
                   "audio-visualizer",
@@ -1328,7 +1328,7 @@
             "open_issues": 154,
             "owner": "mattdiamond",
             "repo": "Recorderjs",
-            "stars": 4237,
+            "stars": 4238,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1349,7 +1349,7 @@
             "open_issues": 78,
             "owner": "alemangui",
             "repo": "pizzicato",
-            "stars": 1709,
+            "stars": 1710,
             "topics": [
               "audio",
               "effects",
@@ -1375,7 +1375,7 @@
             "open_issues": 12,
             "owner": "meenie",
             "repo": "band.js",
-            "stars": 1189,
+            "stars": 1190,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T14:31:20.883Z",
+    "last_updated": "2026-10-09T14:18:19.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1915,10 +1915,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-05T01:54:36Z",
-      "open_issues": 33,
+      "open_issues": 35,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
-      "stars": 1398,
+      "stars": 1399,
       "topics": [
         "audio",
         "awesome",

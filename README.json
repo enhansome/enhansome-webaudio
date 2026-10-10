@@ -21,7 +21,7 @@
                 "open_issues": 54,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14755,
+                "stars": 14756,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,7 +72,7 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-09T12:27:59Z",
+                "last_commit": "2026-10-09T14:27:07Z",
                 "open_issues": 39,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
@@ -195,10 +195,10 @@
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-09T09:35:29Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10434,
+                "stars": 10435,
                 "topics": [
                   "audio",
                   "javascript",
@@ -226,7 +226,7 @@
                 "open_issues": 136,
                 "owner": "magenta",
                 "repo": "magenta-js",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -400,11 +400,11 @@
                 "id": 59882536,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T22:53:11Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-10T03:10:51Z",
+                "open_issues": 7,
                 "owner": "audiojs",
                 "repo": "audio",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "audio",
                   "audiojs",
@@ -579,7 +579,7 @@
                 "open_issues": 0,
                 "owner": "jerosoler",
                 "repo": "wave-audio-path-player",
-                "stars": 67,
+                "stars": 66,
                 "topics": [
                   "audio-player",
                   "audio-visualizer",
@@ -810,7 +810,7 @@
                 "open_issues": 56,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1682,
+                "stars": 1683,
                 "topics": [
                   "annotations",
                   "audio",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T14:18:19.676Z",
+    "last_updated": "2026-10-10T13:32:57.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

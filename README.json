@@ -21,7 +21,7 @@
                 "open_issues": 59,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14758,
+                "stars": 14760,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-12T13:55:29Z",
-                "open_issues": 40,
+                "last_commit": "2026-10-13T14:09:16Z",
+                "open_issues": 35,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 848,
@@ -168,7 +168,7 @@
                 "open_issues": 420,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25372,
+                "stars": 25379,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -194,7 +194,7 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-12T11:10:58Z",
+                "last_commit": "2026-10-13T06:40:49Z",
                 "open_issues": 12,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
@@ -395,7 +395,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "High-level audio manipulations: loading, playback, analysis and editing. 140+ plugins: denoise, dynamics, EQ, filters, effects, reverb, time and pitch, spatial, synthesis, music analysis.",
+                "description": "High-level audio manipulations: loading, playback, analysis, editing, processing. 140+ plugins.",
                 "homepage": "https://audio.js.org",
                 "id": 59882536,
                 "language": "JavaScript",
@@ -404,7 +404,7 @@
                 "open_issues": 7,
                 "owner": "audiojs",
                 "repo": "audio",
-                "stars": 323,
+                "stars": 325,
                 "topics": [
                   "audio",
                   "audiojs",
@@ -810,7 +810,7 @@
                 "open_issues": 56,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1684,
+                "stars": 1685,
                 "topics": [
                   "annotations",
                   "audio",
@@ -939,7 +939,7 @@
                 "open_issues": 0,
                 "owner": "MaxAlyokhin",
                 "repo": "binary-synth",
-                "stars": 132,
+                "stars": 133,
                 "topics": [
                   "art",
                   "audio",
@@ -1328,7 +1328,7 @@
             "open_issues": 153,
             "owner": "mattdiamond",
             "repo": "Recorderjs",
-            "stars": 4238,
+            "stars": 4237,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1506,7 +1506,7 @@
             "open_issues": 4,
             "owner": "hoch",
             "repo": "WAAX",
-            "stars": 299,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T16:40:17.691Z",
+    "last_updated": "2026-10-13T14:57:17.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1915,10 +1915,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-05T01:54:36Z",
-      "open_issues": 37,
+      "open_issues": 39,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
-      "stars": 1400,
+      "stars": 1401,
       "topics": [
         "audio",
         "awesome",

@@ -21,7 +21,7 @@
                 "open_issues": 58,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14773,
+                "stars": 14777,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-15T12:54:38Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-16T21:53:06Z",
+                "open_issues": 34,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 848,
@@ -168,7 +168,7 @@
                 "open_issues": 420,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25393,
+                "stars": 25392,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -755,7 +755,7 @@
                 "open_issues": 3,
                 "owner": "notthetup",
                 "repo": "midimessage",
-                "stars": 37,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1438,7 +1438,7 @@
             "open_issues": 11,
             "owner": "kylestetz",
             "repo": "lissajous",
-            "stars": 405,
+            "stars": 406,
             "topics": [
               "audio",
               "livecoding",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T12:16:28.867Z",
+    "last_updated": "2026-10-17T11:32:27.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1918,7 +1918,7 @@
       "open_issues": 41,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
-      "stars": 1404,
+      "stars": 1403,
       "topics": [
         "audio",
         "awesome",

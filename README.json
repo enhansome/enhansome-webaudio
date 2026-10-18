@@ -17,11 +17,11 @@
                 "id": 17618901,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T10:59:52Z",
+                "last_commit": "2026-10-17T14:22:48Z",
                 "open_issues": 58,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14777,
+                "stars": 14779,
                 "topics": [
                   "javascript",
                   "music",
@@ -168,7 +168,7 @@
                 "open_issues": 420,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25392,
+                "stars": 25396,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -198,7 +198,7 @@
                 "open_issues": 12,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10442,
+                "stars": 10443,
                 "topics": [
                   "audio",
                   "javascript",
@@ -365,7 +365,7 @@
                 "id": 37471875,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-07-25T20:53:26Z",
+                "last_commit": "2026-10-17T20:25:51Z",
                 "open_issues": 9,
                 "owner": "benji6",
                 "repo": "virtual-audio-graph",
@@ -400,11 +400,11 @@
                 "id": 59882536,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T04:57:53Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-18T08:27:08Z",
+                "open_issues": 6,
                 "owner": "audiojs",
                 "repo": "audio",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "audio",
                   "audiojs",
@@ -1349,7 +1349,7 @@
             "open_issues": 78,
             "owner": "alemangui",
             "repo": "pizzicato",
-            "stars": 1710,
+            "stars": 1709,
             "topics": [
               "audio",
               "effects",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:32:27.978Z",
+    "last_updated": "2026-10-18T12:01:18.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1915,7 +1915,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-05T01:54:36Z",
-      "open_issues": 41,
+      "open_issues": 42,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
       "stars": 1403,

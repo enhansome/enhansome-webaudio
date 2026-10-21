@@ -17,8 +17,8 @@
                 "id": 17618901,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T14:22:48Z",
-                "open_issues": 58,
+                "last_commit": "2026-10-21T04:28:15Z",
+                "open_issues": 52,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
                 "stars": 14785,
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-20T11:16:16Z",
-                "open_issues": 36,
+                "last_commit": "2026-10-21T12:41:11Z",
+                "open_issues": 35,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 850,
@@ -168,7 +168,7 @@
                 "open_issues": 420,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25400,
+                "stars": 25405,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -198,7 +198,7 @@
                 "open_issues": 9,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10442,
+                "stars": 10444,
                 "topics": [
                   "audio",
                   "javascript",
@@ -843,7 +843,7 @@
                 "id": 78756952,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T18:48:20Z",
+                "last_commit": "2026-10-21T05:20:59Z",
                 "open_issues": 32,
                 "owner": "steffest",
                 "repo": "BassoonTracker",
@@ -1906,7 +1906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:39:56.749Z",
+    "last_updated": "2026-10-21T12:52:05.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

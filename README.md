@@ -1,12 +1,12 @@
 # Awesome WebAudio with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 524,470 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 524,977 | 🐛 105 | 📅 2026-09-02
 
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/webaudio/webaudio-js.png" width="200px" alt="WebAudio">
 
 > A curated list of awesome [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [packages](#packages) and [demos](#demos).
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,470 | 🐛 105 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,977 | 🐛 105 | 📅 2026-09-02 list thing.
 
 Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) to add an awesome WebAudio thing to this list.
 
@@ -29,22 +29,23 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Frameworks
 
-* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,788 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-22 - A framework for making interactive music in the browser.
+* [Tone.js](https://github.com/Tonejs/Tone.js) ⭐ 14,803 | 🐛 50 | 🌐 TypeScript | 📅 2026-10-25 - A framework for making interactive music in the browser.
 * [Omnitone](https://github.com/GoogleChrome/omnitone) ⭐ 916 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-22 - Ambisonic spatial audio on the web.
-* [React Native Audio API](https://github.com/software-mansion-labs/react-native-audio-api) ⭐ 851 | 🐛 30 | 🌐 C++ | 📅 2026-10-23 - Web Audio API implementation for native apps based on react-native.
+* [React Native Audio API](https://github.com/software-mansion-labs/react-native-audio-api) ⭐ 851 | 🐛 33 | 🌐 C++ | 📅 2026-10-26 - Web Audio API implementation for native apps based on react-native.
 * [Bap](https://github.com/adamrenklint/bap) ⚠️ Archived - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
 * [Mach1Spatial](https://github.com/Mach1Studios/m1-sdk) ⭐ 65 | 🐛 1 | 🌐 C | 📅 2026-08-16 - Vector based panning spatial audio on the web.
 * [Elementary](https://www.elementary.audio/) – Declarative, functional framework for writing audio software on the web or for native apps
+* [Soundworks](https://soundworks.dev/) - Open-source creative coding framework for distributed applications based on Web technologies.
 
 ### Libraries
 
-* [Howler.js](https://github.com/goldfire/howler.js) ⭐ 25,408 | 🐛 420 | 🌐 JavaScript | 📅 2025-11-23 - A comprehensive library with a fallback to HTML5 Audio.
-* [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,449 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-23 - Interactive navigable audio visualization using Web Audio and Canvas.
+* [Howler.js](https://github.com/goldfire/howler.js) ⭐ 25,412 | 🐛 420 | 🌐 JavaScript | 📅 2025-11-23 - A comprehensive library with a fallback to HTML5 Audio.
+* [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,448 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-23 - Interactive navigable audio visualization using Web Audio and Canvas.
 * [@magenta/music](https://github.com/magenta/magenta-js/tree/master/music) ⭐ 2,132 | 🐛 137 | 🌐 TypeScript | 📅 2026-06-22 - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
 * [Wad](https://github.com/rserota/wad) ⭐ 1,984 | 🐛 3 | 🌐 JavaScript | 📅 2025-11-06 - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 * [Tuna](https://github.com/Theodeus/tuna) ⭐ 1,832 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-06 - An audio effects library.
 * [Meyda](https://github.com/meyda/meyda) ⭐ 1,672 | 🐛 70 | 🌐 TypeScript | 📅 2024-07-15 - Audio feature extraction library including a variety of widely used audio features.
-* [html-midi-player](https://github.com/cifkao/html-midi-player) ⭐ 911 | 🐛 21 | 🌐 TypeScript | 📅 2025-07-06 - HTML elements for easy MIDI playback and visualization, without the need to write any custom JS code, but scriptable and stylable as needed.
+* [html-midi-player](https://github.com/cifkao/html-midi-player) ⭐ 912 | 🐛 21 | 🌐 TypeScript | 📅 2025-07-06 - HTML elements for easy MIDI playback and visualization, without the need to write any custom JS code, but scriptable and stylable as needed.
 * [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) ⭐ 370 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-17 - Library for declaratively manipulating the Web Audio API.
 * [Audiojs](https://github.com/audiojs/audio) ⭐ 329 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-21 - An object that enables you to store, read, and write PCM audio data more easily.
 * [Sound.js](https://github.com/kittykatattack/sound.js) ⭐ 317 | 🐛 17 | 🌐 JavaScript | 📅 2024-04-25 - A micro-library to load, play and generate sound effects and music for games and interactive applications.
@@ -55,6 +56,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 * [wave-audio-path-player](https://github.com/jerosoler/wave-audio-path-player) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-02 - Simple audio player webcomponent customizable with waveform.
 * [smoothfade](https://github.com/notthetup/smoothfade) ⭐ 39 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09 - A library for smoothly fading between two AudioNodes.
 * [tuning-fork](https://github.com/v-rusu/tuning-fork) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-20 - A configurable client-side JavaScript library for guitar tuning with real-time pitch detection.
+* [eko-web](https://github.com/reactivepixels/eko-web) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-15 - Web Audio playback engine for music players with gapless playback, crossfade, loudness normalization and React and Vue bindings.
+* [Bardkit](https://github.com/darkdarkcocoa/bardkit) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-12 - A sample-free plucked-string instrument for multiplayer games, with a four-voice pool and per-listener distance gain.
 * [XSound.js](https://xsound.app/) - Full stack library.
 * [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance.
 * [p5.sound](https://p5js.org/reference/#/libraries/p5.sound) - An extension that adds Web Audio functionality to the creative coding library [p5.js](https://p5js.org/).
@@ -64,6 +67,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 * [Audion](https://github.com/google/audion) ⭐ 393 | 🐛 25 | 🌐 TypeScript | 📅 2026-06-24 - Chrome extension that adds a Web Audio panel to Developer Tools.
 * [web-audio-generator](https://github.com/ISNIT0/webaudio-generator) ⭐ 62 | 🐛 8 | 🌐 TypeScript | 📅 2022-12-08 - A UI for generating Web Audio code.
+* [Audio Browser Lab](https://github.com/aribradshaw/audio-browser-lab) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-20 - Reproduce and diagnose browser audio playback, seeking, codec, and lifecycle bugs with shareable evidence.
 * [Web Audio Studio](https://app.webaudio.studio) - A real-time visualizer for Web Audio API graphs generated from code.
 
 ### MIDI
@@ -88,9 +92,11 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 * [SoundCycle](https://github.com/scriptify/soundcycle) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2018-03-06 - A Web Audio based Loopstation for musicians with effects and different looping modes.
 * [jamhub](https://github.com/fletcherist/jamhub) ⭐ 37 | 🐛 19 | 🌐 TypeScript | 📅 2023-01-06 - low-latency remote music collaboration & jam.
 * [synflow](https://synflow.org) [Github](https://github.com/k1ln/synflow) ⭐ 15 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-05 - a browser based modular synth flow engine. With all Web Audio API nodes and more with Worklets (like Vocoder, Reverb, etc. ). With sophisticated Flow automation.
+* [Key Kalimba](https://keykalimba.netlify.app/) [Github](https://github.com/jonashuberts/KeyKalimba) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-20 - Interactive 17-key Kalimba trainer, falling notes visualizer, and real-time tuner with pitch detection.
 * [dsssp-demo](https://github.com/NumberOneBot/dsssp-demo) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-12 - WebAudio music player with 7-bands EQ and filter presets.
 * [Molgav](https://github.com/surikov/molgav) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-19 - Musical Step Sequencer for melodies exchange.
 * [web-audio-beat-detector](https://github.com/meerasndr/sample-golang-app) ⭐ 0 | 🐛 0 | 📅 2022-01-06 - a beat detection utility which is using the Web Audio API
+* [Ocarina Simulator](https://github.com/zengm32343/ocarina-simulator) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-14 - A playable 3D ocarina with sampled and synthesized voices, breath-controlled dynamics from the microphone and song recognition. [Live demo](https://ootguide.com/ocarina/).
 * [X Sound](https://xsound.app/) - Multi Sound Application that uses XSound.js.
 * [GridSound](https://gridsound.github.io) - A work-in-progress DAW (Digital Audio Workstation).
 * [Learning Music](https://learningmusic.ableton.com/) - Learn the basics of music making.
@@ -106,6 +112,12 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 * [All-in-One Advanced BPM Tool](https://tapbpmhub.com/) – Instantly measure song speed by tapping or using the spacebar. Features MIDI input, optional sound clicks, and real-time BPM visualization. Essential for producers, DJs, rhythm gamers.
 * [Tonalux](https://tonalux.org) - Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.
 * [mdrone](https://mdrone.org) - Microtonal drone instrument that runs in your browser.
+* [Database Inside a Song](https://blog.jasonsuhari.com/research/database-song/webaudio-demo.html) - Splits a stereo WAV, reconstructs its side channel, and visualizes the 18 kHz and 20 kHz carriers holding a byte-exact SQLite database.
+* [Tonecrafted Progressions](https://tonecrafted.com) - Free browser chord-progression player and ear-training tool for guitarists, no signup.
+* [Melody Mate](https://melody-mate-khaki.vercel.app/) - In-browser generative MIDI workstation and melodic sketchpad using rule-based music theory heuristics and Web Audio API.
+* [Klaviero](https://klaviero.com/) - Falling-notes piano game for MIDI keyboards, built on Web MIDI and Web Audio (Tone.js), with in-browser audio to MIDI.
+* [psoup noise machine](https://psoup.art/machine/?utm_source=awesomewebaudio) - Free generative noise machine in the browser: brown, pink and white noise computed live with the Web Audio API, tuned by the moon and the day's earthquakes.
+* [seance](https://hexenwerkzeug.com/tools/seance) - Sample workbench on the Web Audio API: spectrogram, drum stem separation, hit-based slicing and BS.1770-4 loudness, all in the browser.
 
 ## Resources
 
@@ -119,6 +131,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 * [The Web Audio API: What Is It?](https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) - Intro to WebAudio.
 * [Web Audio Perf](https://padenot.github.io/web-audio-perf/) - Performance of various AudioNodes and strategies for efficient resource usage (from WAC2016).
 * [Browser Noise: Web Audio Tutorials](https://www.youtube.com/playlist?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr) - Playlist of video tutorials by Dan Tramte, hosted on the Audio Programmer YouTube channel.
+* [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers) - Music theory derived from scratch in JavaScript, with runnable Web Audio examples.
 
 ### Books
 
@@ -175,4 +188,4 @@ To the extent possible under law, [Chinmay Pendharkar](https://chinmay.audio/) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

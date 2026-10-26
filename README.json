@@ -17,11 +17,11 @@
                 "id": 17618901,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T20:49:40Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-25T14:03:29Z",
+                "open_issues": 50,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14788,
+                "stars": 14803,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-23T13:07:42Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-26T12:50:04Z",
+                "open_issues": 33,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 851,
@@ -168,7 +168,7 @@
                 "open_issues": 420,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25408,
+                "stars": 25412,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -195,10 +195,10 @@
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-23T14:18:13Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10449,
+                "stars": 10448,
                 "topics": [
                   "audio",
                   "javascript",
@@ -334,7 +334,7 @@
                 "open_issues": 21,
                 "owner": "cifkao",
                 "repo": "html-midi-player",
-                "stars": 911,
+                "stars": 912,
                 "topics": [
                   "audio-player",
                   "html",
@@ -641,6 +641,79 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
+            },
+            {
+              "node_type": "item",
+              "title": "eko-web",
+              "description": "Web Audio playback engine for music players with gapless playback, crossfade, loudness normalization and React and Vue bindings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Gapless, loudness-normalized Web Audio playback engine for building music players. No runtime dependencies, optional React and Vue bindings.",
+                "homepage": "https://reactivepixels.com/eko-web/",
+                "id": 1379368753,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-15T03:07:16Z",
+                "open_issues": 2,
+                "owner": "reactivepixels",
+                "repo": "eko-web",
+                "stars": 3,
+                "topics": [
+                  "audio",
+                  "audio-player",
+                  "crossfade",
+                  "gapless",
+                  "gapless-playback",
+                  "loudness-normalization",
+                  "media-session",
+                  "music-player",
+                  "react",
+                  "react-hooks",
+                  "replaygain",
+                  "typescript",
+                  "vue",
+                  "vue3",
+                  "web-audio",
+                  "webaudio"
+                ]
+              },
+              "first_seen": "2026-10-26T14:07:23.586Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Bardkit",
+              "description": "A sample-free plucked-string instrument for multiplayer games, with a four-voice pool and per-listener distance gain.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "In-game music for multiplayer games: 22-note keyboard HUD, Web Audio plucked-string synth with no samples, batched note protocol, Rust server validation, BGM yield",
+                "homepage": "https://darkdarkcocoa.github.io/bardkit/",
+                "id": 1354862797,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-12T16:35:53Z",
+                "open_issues": 0,
+                "owner": "darkdarkcocoa",
+                "repo": "bardkit",
+                "stars": 0,
+                "topics": [
+                  "audio-synthesis",
+                  "game-audio",
+                  "game-development",
+                  "gamedev",
+                  "karplus-strong",
+                  "mmo",
+                  "multiplayer",
+                  "music",
+                  "procedural-audio",
+                  "rust",
+                  "svelte",
+                  "typescript",
+                  "web-audio"
+                ]
+              },
+              "first_seen": "2026-10-26T14:07:23.586Z"
             }
           ],
           "description": null,
@@ -694,6 +767,36 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Audio Browser Lab",
+              "description": "Reproduce and diagnose browser audio playback, seeking, codec, and lifecycle bugs with shareable evidence.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Local-first browser audio forensics for MP3 structure, Howler timelines, seeking, codecs, range delivery, and cross-browser reports.",
+                "homepage": "https://aribradshaw.github.io/audio-browser-lab/",
+                "id": 1340213501,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-08-20T07:32:47Z",
+                "open_issues": 1,
+                "owner": "aribradshaw",
+                "repo": "audio-browser-lab",
+                "stars": 0,
+                "topics": [
+                  "audio",
+                  "browser-audio",
+                  "developer-tools",
+                  "howler",
+                  "mcp",
+                  "mp3",
+                  "wavesurfer",
+                  "web-audio"
+                ]
+              },
+              "first_seen": "2026-10-26T14:07:23.586Z"
             }
           ],
           "description": null,
@@ -1124,6 +1227,36 @@
             },
             {
               "node_type": "item",
+              "title": "Key Kalimba",
+              "description": "Github - Interactive 17-key Kalimba trainer, falling notes visualizer, and real-time tuner with pitch detection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An App to practice Kalimba with your Smartphone.",
+                "homepage": "https://keykalimba.netlify.app/",
+                "id": 705243800,
+                "language": "TypeScript",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-10-20T16:26:29Z",
+                "open_issues": 0,
+                "owner": "jonashuberts",
+                "repo": "KeyKalimba",
+                "stars": 10,
+                "topics": [
+                  "kalimba",
+                  "midi-player",
+                  "music-education",
+                  "pitch-detection",
+                  "pwa",
+                  "synthesia",
+                  "tuner",
+                  "webaudio"
+                ]
+              },
+              "first_seen": "2026-10-26T14:07:23.586Z"
+            },
+            {
+              "node_type": "item",
               "title": "dsssp-demo",
               "description": "WebAudio music player with 7-bands EQ and filter presets.",
               "children": [],
@@ -1203,6 +1336,35 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Ocarina Simulator",
+              "description": "A playable 3D ocarina with sampled and synthesized voices, breath-controlled dynamics from the microphone and song recognition. Live demo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Playable 3D ocarina in the browser: six ocarinas, Ocarina of Time song recognition, practice and microphone blow mode. Live at ootguide.com/ocarina/",
+                "homepage": "https://ootguide.com/ocarina/",
+                "id": 1415838296,
+                "language": "TypeScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-14T12:21:38Z",
+                "open_issues": 0,
+                "owner": "zengm32343",
+                "repo": "ocarina-simulator",
+                "stars": 0,
+                "topics": [
+                  "music",
+                  "ocarina",
+                  "ocarina-of-time",
+                  "threejs",
+                  "typescript",
+                  "web-audio",
+                  "zelda"
+                ]
+              },
+              "first_seen": "2026-10-26T14:07:23.586Z"
             }
           ],
           "description": null,
@@ -1906,7 +2068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T12:30:18.425Z",
+    "last_updated": "2026-10-26T14:07:23.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -1914,11 +2076,11 @@
       "id": 43116480,
       "language": null,
       "license": null,
-      "last_commit": "2026-06-05T01:54:36Z",
-      "open_issues": 51,
+      "last_commit": "2026-10-26T08:37:45Z",
+      "open_issues": 5,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
-      "stars": 1401,
+      "stars": 1404,
       "topics": [
         "audio",
         "awesome",
@@ -1928,7 +2090,7 @@
         "webaudio"
       ]
     },
-    "original_repository_sha": "5ba94a8033c803be974a4a8d6a0874afad413c8f",
+    "original_repository_sha": "12ac1ad452301fc20bb6747ea3fbfcfd74ff6bcc",
     "enhanced_repository": "enhansome/enhansome-webaudio",
     "enhanced_repository_description": null,
     "title": "Awesome WebAudio with stars"

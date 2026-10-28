@@ -17,11 +17,11 @@
                 "id": 17618901,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T14:03:29Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-28T03:18:44Z",
+                "open_issues": 49,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14827,
+                "stars": 14845,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,11 +72,11 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-27T01:13:15Z",
-                "open_issues": 32,
+                "last_commit": "2026-10-28T12:58:19Z",
+                "open_issues": 30,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 851,
+                "stars": 852,
                 "topics": [
                   "android",
                   "api",
@@ -168,7 +168,7 @@
                 "open_issues": 420,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25415,
+                "stars": 25416,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -198,7 +198,7 @@
                 "open_issues": 14,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10449,
+                "stars": 10451,
                 "topics": [
                   "audio",
                   "javascript",
@@ -247,7 +247,7 @@
                 "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1984,
+                "stars": 1985,
                 "topics": [
                   "audio",
                   "daw",
@@ -400,7 +400,7 @@
                 "id": 59882536,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T14:34:16Z",
+                "last_commit": "2026-10-27T16:54:01Z",
                 "open_issues": 6,
                 "owner": "audiojs",
                 "repo": "audio",
@@ -623,27 +623,6 @@
             },
             {
               "node_type": "item",
-              "title": "tuning-fork",
-              "description": "A configurable client-side JavaScript library for guitar tuning with real-time pitch detection.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1136287896,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-01-20T16:13:09Z",
-                "open_issues": 0,
-                "owner": "v-rusu",
-                "repo": "tuning-fork",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:21.115Z"
-            },
-            {
-              "node_type": "item",
               "title": "eko-web",
               "description": "Web Audio playback engine for music players with gapless playback, crossfade, loudness normalization and React and Vue bindings.",
               "children": [],
@@ -654,11 +633,11 @@
                 "id": 1379368753,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T03:07:16Z",
+                "last_commit": "2026-10-28T12:36:52Z",
                 "open_issues": 2,
                 "owner": "reactivepixels",
                 "repo": "eko-web",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "audio",
                   "audio-player",
@@ -679,6 +658,27 @@
                 ]
               },
               "first_seen": "2026-10-26T14:07:23.586Z"
+            },
+            {
+              "node_type": "item",
+              "title": "tuning-fork",
+              "description": "A configurable client-side JavaScript library for guitar tuning with real-time pitch detection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1136287896,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-01-20T16:13:09Z",
+                "open_issues": 0,
+                "owner": "v-rusu",
+                "repo": "tuning-fork",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:21.115Z"
             },
             {
               "node_type": "item",
@@ -909,8 +909,8 @@
                 "id": 8150190,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T03:52:23Z",
-                "open_issues": 58,
+                "last_commit": "2026-10-28T07:07:15Z",
+                "open_issues": 59,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
                 "stars": 1686,
@@ -2068,7 +2068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T13:07:34.608Z",
+    "last_updated": "2026-10-28T13:57:19.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -2077,10 +2077,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-26T08:37:45Z",
-      "open_issues": 5,
+      "open_issues": 9,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
-      "stars": 1404,
+      "stars": 1405,
       "topics": [
         "audio",
         "awesome",

@@ -17,11 +17,11 @@
                 "id": 17618901,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T03:18:44Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-30T22:24:10Z",
+                "open_issues": 50,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14855,
+                "stars": 14862,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,11 +72,11 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-30T12:56:08Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-30T17:31:48Z",
+                "open_issues": 32,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 852,
+                "stars": 853,
                 "topics": [
                   "android",
                   "api",
@@ -168,7 +168,7 @@
                 "open_issues": 420,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25419,
+                "stars": 25422,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -194,11 +194,11 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-23T14:18:13Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-30T17:12:09Z",
+                "open_issues": 11,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10457,
+                "stars": 10460,
                 "topics": [
                   "audio",
                   "javascript",
@@ -304,7 +304,7 @@
                 "open_issues": 70,
                 "owner": "meyda",
                 "repo": "meyda",
-                "stars": 1671,
+                "stars": 1672,
                 "topics": [
                   "audio-features",
                   "feature-extraction",
@@ -334,7 +334,7 @@
                 "open_issues": 21,
                 "owner": "cifkao",
                 "repo": "html-midi-player",
-                "stars": 912,
+                "stars": 913,
                 "topics": [
                   "audio-player",
                   "html",
@@ -1537,7 +1537,7 @@
             "open_issues": 12,
             "owner": "meenie",
             "repo": "band.js",
-            "stars": 1190,
+            "stars": 1191,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -2068,7 +2068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T13:59:17.160Z",
+    "last_updated": "2026-10-31T13:34:15.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -2077,7 +2077,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-26T08:37:45Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
       "stars": 1406,

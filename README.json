@@ -21,7 +21,7 @@
                 "open_issues": 50,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14873,
+                "stars": 14876,
                 "topics": [
                   "javascript",
                   "music",
@@ -50,7 +50,7 @@
                 "open_issues": 7,
                 "owner": "GoogleChrome",
                 "repo": "omnitone",
-                "stars": 916,
+                "stars": 917,
                 "topics": [
                   "ambisonics",
                   "hrtf",
@@ -72,7 +72,7 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-02T14:19:48Z",
+                "last_commit": "2026-11-03T13:34:57Z",
                 "open_issues": 37,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
@@ -194,7 +194,7 @@
                 "id": 3618686,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-02T09:25:24Z",
+                "last_commit": "2026-11-03T09:39:17Z",
                 "open_issues": 8,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
@@ -226,7 +226,7 @@
                 "open_issues": 137,
                 "owner": "magenta",
                 "repo": "magenta-js",
-                "stars": 2133,
+                "stars": 2134,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -334,7 +334,7 @@
                 "open_issues": 21,
                 "owner": "cifkao",
                 "repo": "html-midi-player",
-                "stars": 912,
+                "stars": 913,
                 "topics": [
                   "audio-player",
                   "html",
@@ -950,7 +950,7 @@
                 "open_issues": 32,
                 "owner": "steffest",
                 "repo": "BassoonTracker",
-                "stars": 1169,
+                "stars": 1170,
                 "topics": [
                   "amiga",
                   "fasttracker",
@@ -1626,7 +1626,7 @@
             "open_issues": 22,
             "owner": "gibber-cc",
             "repo": "gibberish",
-            "stars": 402,
+            "stars": 401,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -2068,7 +2068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T16:58:33.684Z",
+    "last_updated": "2026-11-03T14:58:58.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -2077,7 +2077,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-26T08:37:45Z",
-      "open_issues": 15,
+      "open_issues": 18,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
       "stars": 1406,

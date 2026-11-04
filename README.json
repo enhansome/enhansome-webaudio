@@ -21,7 +21,7 @@
                 "open_issues": 50,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14876,
+                "stars": 14879,
                 "topics": [
                   "javascript",
                   "music",
@@ -50,7 +50,7 @@
                 "open_issues": 7,
                 "owner": "GoogleChrome",
                 "repo": "omnitone",
-                "stars": 917,
+                "stars": 918,
                 "topics": [
                   "ambisonics",
                   "hrtf",
@@ -72,11 +72,11 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-03T13:34:57Z",
-                "open_issues": 37,
+                "last_commit": "2026-11-04T11:12:43Z",
+                "open_issues": 39,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 853,
+                "stars": 854,
                 "topics": [
                   "android",
                   "api",
@@ -168,7 +168,7 @@
                 "open_issues": 420,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25424,
+                "stars": 25428,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -198,7 +198,7 @@
                 "open_issues": 8,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10459,
+                "stars": 10460,
                 "topics": [
                   "audio",
                   "javascript",
@@ -400,7 +400,7 @@
                 "id": 59882536,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T16:49:25Z",
+                "last_commit": "2026-11-04T02:37:18Z",
                 "open_issues": 6,
                 "owner": "audiojs",
                 "repo": "audio",
@@ -738,7 +738,7 @@
                 "open_issues": 25,
                 "owner": "GoogleChrome",
                 "repo": "audion",
-                "stars": 393,
+                "stars": 394,
                 "topics": [
                   "chrome-extension",
                   "developer-tools",
@@ -1626,7 +1626,7 @@
             "open_issues": 22,
             "owner": "gibber-cc",
             "repo": "gibberish",
-            "stars": 401,
+            "stars": 402,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -2068,7 +2068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:58:58.974Z",
+    "last_updated": "2026-11-04T15:20:04.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -2077,7 +2077,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-26T08:37:45Z",
-      "open_issues": 18,
+      "open_issues": 19,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
       "stars": 1406,

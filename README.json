@@ -21,7 +21,7 @@
                 "open_issues": 50,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14879,
+                "stars": 14885,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,11 +72,11 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-04T11:12:43Z",
-                "open_issues": 39,
+                "last_commit": "2026-11-05T14:42:09Z",
+                "open_issues": 40,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 854,
+                "stars": 856,
                 "topics": [
                   "android",
                   "api",
@@ -168,7 +168,7 @@
                 "open_issues": 420,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25428,
+                "stars": 25429,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -198,7 +198,7 @@
                 "open_issues": 8,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10460,
+                "stars": 10462,
                 "topics": [
                   "audio",
                   "javascript",
@@ -247,7 +247,7 @@
                 "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1984,
+                "stars": 1985,
                 "topics": [
                   "audio",
                   "daw",
@@ -913,7 +913,7 @@
                 "open_issues": 59,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1687,
+                "stars": 1688,
                 "topics": [
                   "annotations",
                   "audio",
@@ -1511,7 +1511,7 @@
             "open_issues": 78,
             "owner": "alemangui",
             "repo": "pizzicato",
-            "stars": 1709,
+            "stars": 1710,
             "topics": [
               "audio",
               "effects",
@@ -2068,7 +2068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T15:20:04.418Z",
+    "last_updated": "2026-11-05T15:21:23.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -2080,7 +2080,7 @@
       "open_issues": 19,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
-      "stars": 1406,
+      "stars": 1405,
       "topics": [
         "audio",
         "awesome",

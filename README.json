@@ -21,7 +21,7 @@
                 "open_issues": 50,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14885,
+                "stars": 14890,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-05T14:42:09Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-06T14:22:10Z",
+                "open_issues": 38,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 856,
@@ -168,7 +168,7 @@
                 "open_issues": 420,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25429,
+                "stars": 25430,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -404,7 +404,7 @@
                 "open_issues": 6,
                 "owner": "audiojs",
                 "repo": "audio",
-                "stars": 329,
+                "stars": 330,
                 "topics": [
                   "audio",
                   "audiojs",
@@ -510,7 +510,7 @@
                 "open_issues": 15,
                 "owner": "infojunkie",
                 "repo": "musicxml-player",
-                "stars": 90,
+                "stars": 91,
                 "topics": [
                   "midi",
                   "music-i18n",
@@ -1318,6 +1318,35 @@
             },
             {
               "node_type": "item",
+              "title": "Ocarina Simulator",
+              "description": "A playable 3D ocarina with sampled and synthesized voices, breath-controlled dynamics from the microphone and song recognition. Live demo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Playable 3D ocarina in the browser: six ocarinas, Ocarina of Time song recognition, practice and microphone blow mode. Live at ootguide.com/ocarina/",
+                "homepage": "https://ootguide.com/ocarina/",
+                "id": 1415838296,
+                "language": "TypeScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-14T12:21:38Z",
+                "open_issues": 0,
+                "owner": "zengm32343",
+                "repo": "ocarina-simulator",
+                "stars": 1,
+                "topics": [
+                  "music",
+                  "ocarina",
+                  "ocarina-of-time",
+                  "threejs",
+                  "typescript",
+                  "web-audio",
+                  "zelda"
+                ]
+              },
+              "first_seen": "2026-10-26T14:07:23.586Z"
+            },
+            {
+              "node_type": "item",
               "title": "web-audio-beat-detector",
               "description": "a beat detection utility which is using the Web Audio API",
               "children": [],
@@ -1336,35 +1365,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Ocarina Simulator",
-              "description": "A playable 3D ocarina with sampled and synthesized voices, breath-controlled dynamics from the microphone and song recognition. Live demo.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Playable 3D ocarina in the browser: six ocarinas, Ocarina of Time song recognition, practice and microphone blow mode. Live at ootguide.com/ocarina/",
-                "homepage": "https://ootguide.com/ocarina/",
-                "id": 1415838296,
-                "language": "TypeScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-14T12:21:38Z",
-                "open_issues": 0,
-                "owner": "zengm32343",
-                "repo": "ocarina-simulator",
-                "stars": 0,
-                "topics": [
-                  "music",
-                  "ocarina",
-                  "ocarina-of-time",
-                  "threejs",
-                  "typescript",
-                  "web-audio",
-                  "zelda"
-                ]
-              },
-              "first_seen": "2026-10-26T14:07:23.586Z"
             }
           ],
           "description": null,
@@ -1511,7 +1511,7 @@
             "open_issues": 78,
             "owner": "alemangui",
             "repo": "pizzicato",
-            "stars": 1710,
+            "stars": 1709,
             "topics": [
               "audio",
               "effects",
@@ -2068,7 +2068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T15:21:23.966Z",
+    "last_updated": "2026-11-06T14:56:29.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

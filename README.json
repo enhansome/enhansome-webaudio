@@ -21,7 +21,7 @@
                 "open_issues": 51,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14892,
+                "stars": 14894,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-06T16:07:14Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-09T17:11:15Z",
+                "open_issues": 35,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 856,
@@ -168,7 +168,7 @@
                 "open_issues": 419,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25431,
+                "stars": 25438,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -195,10 +195,10 @@
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-03T09:39:17Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10462,
+                "stars": 10463,
                 "topics": [
                   "audio",
                   "javascript",
@@ -247,7 +247,7 @@
                 "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1985,
+                "stars": 1986,
                 "topics": [
                   "audio",
                   "daw",
@@ -277,7 +277,7 @@
                 "open_issues": 4,
                 "owner": "Theodeus",
                 "repo": "tuna",
-                "stars": 1831,
+                "stars": 1832,
                 "topics": [
                   "audio",
                   "audio-effect",
@@ -301,10 +301,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2024-07-15T23:28:43Z",
-                "open_issues": 70,
+                "open_issues": 71,
                 "owner": "meyda",
                 "repo": "meyda",
-                "stars": 1672,
+                "stars": 1674,
                 "topics": [
                   "audio-features",
                   "feature-extraction",
@@ -404,7 +404,7 @@
                 "open_issues": 6,
                 "owner": "audiojs",
                 "repo": "audio",
-                "stars": 331,
+                "stars": 332,
                 "topics": [
                   "audio",
                   "audiojs",
@@ -633,8 +633,8 @@
                 "id": 1379368753,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T05:32:51Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-08T22:10:22Z",
+                "open_issues": 3,
                 "owner": "reactivepixels",
                 "repo": "eko-web",
                 "stars": 4,
@@ -821,7 +821,7 @@
                 "open_issues": 19,
                 "owner": "jazz-soft",
                 "repo": "JZZ",
-                "stars": 595,
+                "stars": 596,
                 "topics": [
                   "audio",
                   "javascript",
@@ -913,7 +913,7 @@
                 "open_issues": 65,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
-                "stars": 1688,
+                "stars": 1690,
                 "topics": [
                   "annotations",
                   "audio",
@@ -1511,7 +1511,7 @@
             "open_issues": 78,
             "owner": "alemangui",
             "repo": "pizzicato",
-            "stars": 1709,
+            "stars": 1710,
             "topics": [
               "audio",
               "effects",
@@ -1579,7 +1579,7 @@
             "open_issues": 42,
             "owner": "higuma",
             "repo": "web-audio-recorder-js",
-            "stars": 793,
+            "stars": 794,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1600,7 +1600,7 @@
             "open_issues": 11,
             "owner": "kylestetz",
             "repo": "lissajous",
-            "stars": 406,
+            "stars": 407,
             "topics": [
               "audio",
               "livecoding",
@@ -1668,7 +1668,7 @@
             "open_issues": 4,
             "owner": "hoch",
             "repo": "WAAX",
-            "stars": 298,
+            "stars": 299,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -2068,7 +2068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T14:14:14.979Z",
+    "last_updated": "2026-11-09T17:23:00.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -2077,10 +2077,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-26T08:37:45Z",
-      "open_issues": 20,
+      "open_issues": 21,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
-      "stars": 1405,
+      "stars": 1406,
       "topics": [
         "audio",
         "awesome",

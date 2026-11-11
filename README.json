@@ -21,7 +21,7 @@
                 "open_issues": 51,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14893,
+                "stars": 14897,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,11 +72,11 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-10T14:58:47Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-10T17:07:59Z",
+                "open_issues": 27,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
-                "stars": 857,
+                "stars": 858,
                 "topics": [
                   "android",
                   "api",
@@ -168,7 +168,7 @@
                 "open_issues": 419,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25439,
+                "stars": 25441,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -198,7 +198,7 @@
                 "open_issues": 11,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10468,
+                "stars": 10469,
                 "topics": [
                   "audio",
                   "javascript",
@@ -909,8 +909,8 @@
                 "id": 8150190,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T07:07:15Z",
-                "open_issues": 65,
+                "last_commit": "2026-11-11T07:57:44Z",
+                "open_issues": 88,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
                 "stars": 1689,
@@ -1537,7 +1537,7 @@
             "open_issues": 12,
             "owner": "meenie",
             "repo": "band.js",
-            "stars": 1191,
+            "stars": 1192,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -2068,7 +2068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:31:11.970Z",
+    "last_updated": "2026-11-11T15:03:53.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

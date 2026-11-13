@@ -17,11 +17,11 @@
                 "id": 17618901,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T01:18:02Z",
-                "open_issues": 51,
+                "last_commit": "2026-11-13T04:22:29Z",
+                "open_issues": 52,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14897,
+                "stars": 14899,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-12T14:55:49Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-13T15:08:48Z",
+                "open_issues": 26,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 860,
@@ -168,7 +168,7 @@
                 "open_issues": 419,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25442,
+                "stars": 25443,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -195,10 +195,10 @@
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-12T09:15:41Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10470,
+                "stars": 10473,
                 "topics": [
                   "audio",
                   "javascript",
@@ -247,7 +247,7 @@
                 "open_issues": 3,
                 "owner": "rserota",
                 "repo": "wad",
-                "stars": 1986,
+                "stars": 1985,
                 "topics": [
                   "audio",
                   "daw",
@@ -277,7 +277,7 @@
                 "open_issues": 4,
                 "owner": "Theodeus",
                 "repo": "tuna",
-                "stars": 1832,
+                "stars": 1833,
                 "topics": [
                   "audio",
                   "audio-effect",
@@ -404,7 +404,7 @@
                 "open_issues": 6,
                 "owner": "audiojs",
                 "repo": "audio",
-                "stars": 333,
+                "stars": 334,
                 "topics": [
                   "audio",
                   "audiojs",
@@ -909,8 +909,8 @@
                 "id": 8150190,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-12T06:46:30Z",
-                "open_issues": 89,
+                "last_commit": "2026-11-13T06:54:09Z",
+                "open_issues": 93,
                 "owner": "naomiaro",
                 "repo": "waveform-playlist",
                 "stars": 1691,
@@ -950,7 +950,7 @@
                 "open_issues": 32,
                 "owner": "steffest",
                 "repo": "BassoonTracker",
-                "stars": 1171,
+                "stars": 1172,
                 "topics": [
                   "amiga",
                   "fasttracker",
@@ -1021,7 +1021,7 @@
                 "open_issues": 6,
                 "owner": "g200kg",
                 "repo": "webaudio-tinysynth",
-                "stars": 270,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:21.115Z"
@@ -1490,7 +1490,7 @@
             "open_issues": 153,
             "owner": "mattdiamond",
             "repo": "Recorderjs",
-            "stars": 4235,
+            "stars": 4234,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:21.115Z"
@@ -2068,7 +2068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:54:49.783Z",
+    "last_updated": "2026-11-13T15:17:22.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",

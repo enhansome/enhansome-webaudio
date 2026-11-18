@@ -21,7 +21,7 @@
                 "open_issues": 52,
                 "owner": "Tonejs",
                 "repo": "Tone.js",
-                "stars": 14924,
+                "stars": 14929,
                 "topics": [
                   "javascript",
                   "music",
@@ -72,8 +72,8 @@
                 "id": 823563404,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-17T16:17:03Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-18T16:14:14Z",
+                "open_issues": 27,
                 "owner": "software-mansion",
                 "repo": "react-native-audio-api",
                 "stars": 863,
@@ -168,7 +168,7 @@
                 "open_issues": 419,
                 "owner": "goldfire",
                 "repo": "howler.js",
-                "stars": 25449,
+                "stars": 25450,
                 "topics": [
                   "audio",
                   "audio-library",
@@ -198,7 +198,7 @@
                 "open_issues": 11,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10478,
+                "stars": 10481,
                 "topics": [
                   "audio",
                   "javascript",
@@ -334,7 +334,7 @@
                 "open_issues": 21,
                 "owner": "cifkao",
                 "repo": "html-midi-player",
-                "stars": 913,
+                "stars": 914,
                 "topics": [
                   "audio-player",
                   "html",
@@ -400,11 +400,11 @@
                 "id": 59882536,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T22:49:18Z",
+                "last_commit": "2026-11-18T12:25:38Z",
                 "open_issues": 6,
                 "owner": "audiojs",
                 "repo": "audio",
-                "stars": 338,
+                "stars": 339,
                 "topics": [
                   "audio",
                   "audiojs",
@@ -2068,7 +2068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T16:50:08.188Z",
+    "last_updated": "2026-11-18T16:22:09.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome WebAudio packages and resources.",
@@ -2077,7 +2077,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-26T08:37:45Z",
-      "open_issues": 30,
+      "open_issues": 31,
       "owner": "notthetup",
       "repo": "awesome-webaudio",
       "stars": 1407,
